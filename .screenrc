@@ -1,0 +1,2 @@
+bind c screen bash -ic 'HISTFILE=~/.bash_history.${WINDOW} bash'
+bind ^C screen bash -ic 'HISTFILE=~/.bash_history.${WINDOW} bash'
