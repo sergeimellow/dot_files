@@ -53,4 +53,10 @@ sudo apt-get install openvpn
 sudo apt-get install traceroute
 sudo apt-get install iptables
 sudo apt-get install graphviz
+# GIF's are life
+sudo add-apt-repository ppa:fossfreedom/byzanz
+sudo apt-get update && sudo apt-get install byzanz
+sudo apt-get install byzanz
+# Example:
+# byzanz-record --duration=15 --x=200 --y=300 --width=700 --height=400 out.gif
 
