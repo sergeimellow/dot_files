@@ -90,6 +90,8 @@ alias la='ls -A'
 alias l='ls -CF'
 alias lf='sudo du -sch .[!.]* * |sort -h'
 alias ports='lsof -i'
+# global git pull in current directory
+alias gg_pull='for i in */.git; do ( echo $i; cd $i/..; git pull; ); xdone'
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
