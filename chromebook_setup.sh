@@ -59,4 +59,4 @@ sudo apt-get update && sudo apt-get install byzanz
 sudo apt-get install byzanz
 # Example:
 # byzanz-record --duration=15 --x=200 --y=300 --width=700 --height=400 out.gif
-
+wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
