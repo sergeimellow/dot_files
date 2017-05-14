@@ -16,8 +16,8 @@ set textwidth=80
 set colorcolumn=+1
 
 " Display extra whitespace
-" set list listchars=tab:»·,trail:·,nbsp:·
-" TODO: Add better whitespace indicator
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/
 
 " Use one space, not two, after punctuation.
 set nojoinspaces
