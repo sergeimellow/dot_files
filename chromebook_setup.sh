@@ -1,4 +1,6 @@
 # TODO: clean this up so its in logical order and QA
+sudo sh ~/Downloads/crouton  -r stretch -t gnome
+sudo sh -e ~/Downloads/crouton -r stretch -t extension -u
 sudo dpkg-reconfigure locales
 sudo apt-get update
 sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev
