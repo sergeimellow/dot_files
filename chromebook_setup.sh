@@ -1,4 +1,8 @@
 # TODO: clean this up so its in logical order and QA
+sudo sh ~/Downloads/crouton -t core -r bionic
+sudo sh enter-chroot
+sudo apt-get install xserver-xorg-video-all xserver-xorg xserver-xorg-video-intel
+sudo sh ~/Downloads/crouton -u -t keyboard,extension,gnome-desktop -r bionic
 sudo sh ~/Downloads/crouton  -r stretch -t gnome
 sudo sh -e ~/Downloads/crouton -r stretch -t extension -u
 sudo dpkg-reconfigure locales
