@@ -1,0 +1,1869 @@
+    1  08/07/22 23:50:35 cd ~/work/python_koans/
+    2  08/07/22 23:50:35 ls
+    3  08/07/22 23:50:35 git status
+    4  28/06/22 15:35:19 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    5  28/06/22 15:38:29 vim ~/.bash_profile
+    6  28/06/22 15:39:25 brew install htop
+    7  28/06/22 15:39:43 htop
+    8  28/06/22 15:39:56 htop
+    9  28/06/22 15:40:17 brew cask install iterm2
+   10  28/06/22 15:40:40 brew --cask install iterm2
+   11  28/06/22 15:40:48 brew install iterm2
+   12  28/06/22 15:43:22 brew install bash
+   13  28/06/22 15:44:08 which bash
+   14  28/06/22 15:44:14 bash --version
+   15  08/07/22 23:50:35 cd ~/work/python_koans/
+   16  08/07/22 23:50:35 ls
+   17  28/06/22 15:46:06 cp ~/.bash_profile ~/.bash_profile.old
+   18  28/06/22 15:46:19 his
+   19  28/06/22 15:46:21 history
+   20  28/06/22 15:46:12 vim ~/.bash_profile
+   21  28/06/22 15:47:16 vim ~/.bash_profile
+   22  28/06/22 15:48:30 source ~/.bash_profile
+   23  28/06/22 15:48:31 history
+   24  28/06/22 15:48:42 cd ~/work/
+   25  28/06/22 15:48:43 ls
+   26  28/06/22 15:48:45 cd python_koans/
+   27  28/06/22 15:48:46 ls
+   28  28/06/22 15:48:55 vim ~/.bash_profile
+   29  28/06/22 15:52:44 cd ~/work/python_koans/
+   30  28/06/22 15:53:13 ECHO $PATH
+   31  28/06/22 15:55:08 vim ~/.bash_profiler
+   32  28/06/22 15:55:16 vim ~/.bash_profile
+   33  28/06/22 15:55:50 source ~/.bash_profile
+   34  28/06/22 15:55:54 ks
+   35  28/06/22 15:55:54 ls
+   36  08/07/22 23:50:35 cd ~/work/python_koans/
+   37  08/07/22 23:50:35 ls
+   38  08/07/22 23:50:35 pwd
+   39  08/07/22 23:50:35 source ~/.bash_profile
+   40  08/07/22 23:50:35 vim ~/.bashrc
+   41  08/07/22 23:50:35 vim ~/bashrc
+   42  08/07/22 23:50:35 vim ~/.bashrc
+   43  08/07/22 23:50:35 vim ~/.bash_profile
+   44  08/07/22 23:50:35 vim ~/.bashrc
+   45  08/07/22 23:50:35 echo #BASH_CONF
+   46  08/07/22 23:50:35 pwd
+   47  08/07/22 23:50:35 cd ~/work/python_koans/
+   48  08/07/22 23:50:35 his
+   49  08/07/22 23:50:35 REDACTED
+   50  08/07/22 23:50:35 REDACTED
+   51  08/07/22 23:50:35 REDACTED
+   52  08/07/22 23:50:35 REDACTED
+   53  08/07/22 23:50:35 man ssh-keygen
+   54  08/07/22 23:50:35 REDACTED
+   55  08/07/22 23:50:35 REDACTED
+   56  08/07/22 23:50:35 REDACTED
+   57  08/07/22 23:50:35 ls
+   58  08/07/22 23:50:35 REDACTED
+   59  08/07/22 23:50:35 ls
+   60  08/07/22 23:50:35 REDACTED
+   61  08/07/22 23:50:35 REDACTED
+   62  08/07/22 23:50:35 REDACTED
+   63  08/07/22 23:50:35 ls
+   64  08/07/22 23:50:35 ls -lrt
+   65  08/07/22 23:50:35 ls -l
+   66  08/07/22 23:50:35 ls -lat
+   67  08/07/22 23:50:35 vim .gitconfig
+   68  08/07/22 23:50:35 cp .gitconfig ~/.gitconfig
+   69  08/07/22 23:50:35 vim ~/.gitconfig
+   70  08/07/22 23:50:35 vim ~/.viminfo
+   71  08/07/22 23:50:35 vim .viminfo
+   72  08/07/22 23:50:35 cd
+   73  08/07/22 23:50:35 pwd
+   74  08/07/22 23:50:35 htop
+   75  08/07/22 23:50:35 sudo htop
+   76  08/07/22 23:50:35 java -c
+   77  08/07/22 23:50:35 cd ~/work/python_koans/
+   78  08/07/22 23:50:35 sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+   79  08/07/22 23:50:35 subl .
+   80  08/07/22 23:50:35 subl ..
+   81  08/07/22 23:50:35 cd ..
+   82  08/07/22 23:50:35 subl python_koans/
+   83  08/07/22 23:50:35 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+   84  08/07/22 23:50:35 subl .
+   85  08/07/22 23:50:35 /Applications/Sublime Text.app/Contents/SharedSupport/bin/subl .
+   86  08/07/22 23:50:35 /Applications/Sublime\ Text.app//Contents/SharedSupport/bin/subl .
+   87  08/07/22 23:50:35  subl -h
+   88  08/07/22 23:50:35 subl python_koans/
+   89  08/07/22 23:50:35 subl python_koans
+   90  08/07/22 23:50:35 subl --version
+   91  08/07/22 23:50:35 /Applications/SublimeText.app/Contents/SharedSupport/bin/subl
+   92  08/07/22 23:50:35 /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl
+   93  08/07/22 23:50:35 /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl python_koans/
+   94  08/07/22 23:50:35 subl python_koans/
+   95  08/07/22 23:50:35 cd python_koans/
+   96  08/07/22 23:50:35 python3 --version
+   97  08/07/22 23:50:35 python3 contemplate_koans.py
+   98  08/07/22 23:50:35 python3
+   99  08/07/22 23:50:35 python3 contemplate_koans.py
+  100  08/07/22 23:50:35 python3
+  101  08/07/22 23:50:35 python3 contemplate_koans.py
+  102  08/07/22 23:50:35 python3 contemplate_koans.py
+  103  08/07/22 23:50:35 python3 contemplate_koans.py
+  104  08/07/22 23:50:35 python3 contemplate_koans.py
+  105  08/07/22 23:50:35 python3 contemplate_koans.py
+  106  08/07/22 23:50:35 python3 contemplate_koans.py
+  107  08/07/22 23:50:35 python3 contemplate_koans.py
+  108  08/07/22 23:50:35 python3 contemplate_koans.py
+  109  08/07/22 23:50:35 python3 contemplate_koans.py
+  110  08/07/22 23:50:35 python3 contemplate_koans.py
+  111  08/07/22 23:50:35 python3 contemplate_koans.py
+  112  08/07/22 23:50:35 python3 contemplate_koans.py
+  113  08/07/22 23:50:35 python3 contemplate_koans.py
+  114  08/07/22 23:50:35 python3 contemplate_koans.py
+  115  08/07/22 23:50:35 python3 contemplate_koans.py
+  116  08/07/22 23:50:35 python3 contemplate_koans.py
+  117  08/07/22 23:50:35 python3 contemplate_koans.py
+  118  08/07/22 23:50:35 python3 contemplate_koans.py
+  119  08/07/22 23:50:35 python3 contemplate_koans.py
+  120  08/07/22 23:50:35 python3 contemplate_koans.py
+  121  08/07/22 23:50:35 python3 contemplate_koans.py
+  122  08/07/22 23:50:35 python3 contemplate_koans.py
+  123  08/07/22 23:50:35 python3 contemplate_koans.py
+  124  08/07/22 23:50:35 python3 contemplate_koans.py
+  125  08/07/22 23:50:35 python3 contemplate_koans.py
+  126  08/07/22 23:50:35 python3 contemplate_koans.py
+  127  08/07/22 23:50:35 python3 contemplate_koans.py
+  128  08/07/22 23:50:35 python3 contemplate_koans.py
+  129  08/07/22 23:50:35 python3 contemplate_koans.py
+  130  08/07/22 23:50:35 python3 contemplate_koans.py
+  131  08/07/22 23:50:35 python3 contemplate_koans.py
+  132  08/07/22 23:50:35 python3 contemplate_koans.py
+  133  08/07/22 23:50:35 python3 contemplate_koans.py
+  134  08/07/22 23:50:35 python3 contemplate_koans.py
+  135  08/07/22 23:50:35 python3 contemplate_koans.py
+  136  08/07/22 23:50:35 python3 contemplate_koans.py
+  137  08/07/22 23:50:35 git diff
+  138  08/07/22 23:50:35 git diff
+  139  08/07/22 23:50:35 python3 contemplate_koans.py
+  140  08/07/22 23:50:35 git log
+  141  08/07/22 23:50:35 git log
+  142  08/07/22 23:50:35 python3 contemplate_koans.py
+  143  08/07/22 23:50:35 git commit -am "17% complete, 54/279, 6/37 lessons"
+  144  08/07/22 23:50:35 git push origin master
+  145  08/07/22 23:50:35 python
+  146  08/07/22 23:50:35 python
+  147  08/07/22 23:50:35 python3
+  148  08/07/22 23:50:35 python3 contemplate_koans.py
+  149  08/07/22 23:50:35 python3 contemplate_koans.py
+  150  08/07/22 23:50:35 python3 contemplate_koans.py
+  151  08/07/22 23:50:35 python3 contemplate_koans.py
+  152  08/07/22 23:50:35 git commit -am "20% complete, 63/279, 7/37 lessons"
+  153  08/07/22 23:50:35 git push origin master
+  154  08/07/22 23:50:35 git push origin master
+  155  08/07/22 23:50:35 python3 contemplate_koans.py
+  156  08/07/22 23:50:35 python3 contemplate_koans.py
+  157  08/07/22 23:50:35 python3 contemplate_koans.py
+  158  08/07/22 23:50:35 python3 contemplate_koans.py
+  159  08/07/22 23:50:35 python3 contemplate_koans.py
+  160  08/07/22 23:50:35 python3 contemplate_koans.py
+  161  08/07/22 23:50:35 python3 contemplate_koans.py
+  162  08/07/22 23:50:35 pythonm
+  163  08/07/22 23:50:35 python3
+  164  08/07/22 23:50:35 python3 contemplate_koans.py
+  165  08/07/22 23:50:35 python3 contemplate_koans.py
+  166  08/07/22 23:50:35 python3 contemplate_koans.py
+  167  08/07/22 23:50:35 python3 contemplate_koans.py
+  168  08/07/22 23:50:35 python3 contemplate_koans.py
+  169  08/07/22 23:50:35 python3 contemplate_koans.py
+  170  08/07/22 23:50:35 python3 contemplate_koans.py
+  171  08/07/22 23:50:35 python3 contemplate_koans.py
+  172  08/07/22 23:50:35 python3 contemplate_koans.py
+  173  08/07/22 23:50:35 python3 contemplate_koans.py
+  174  08/07/22 23:50:35 python3 contemplate_koans.py
+  175  08/07/22 23:50:35 python3 contemplate_koans.py
+  176  08/07/22 23:50:35 python3 contemplate_koans.py
+  177  08/07/22 23:50:35 python3 contemplate_koans.py
+  178  08/07/22 23:50:35 python3 contemplate_koans.py
+  179  08/07/22 23:50:35 python3 contemplate_koans.py
+  180  08/07/22 23:50:35 python3 contemplate_koans.py
+  181  08/07/22 23:50:35 python3 contemplate_koans.py
+  182  08/07/22 23:50:35 python3 contemplate_koans.py
+  183  08/07/22 23:50:35 python3 contemplate_koans.py
+  184  08/07/22 23:50:35 python3 contemplate_koans.py
+  185  08/07/22 23:50:35 python3 contemplate_koans.py
+  186  08/07/22 23:50:35 python3 contemplate_koans.py
+  187  08/07/22 23:50:35 python3 contemplate_koans.py
+  188  08/07/22 23:50:35 python3 contemplate_koans.py
+  189  08/07/22 23:50:35 python3 contemplate_koans.py
+  190  08/07/22 23:50:35 python3 contemplate_koans.py
+  191  08/07/22 23:50:35 python3 contemplate_koans.py
+  192  08/07/22 23:50:35 python3 contemplate_koans.py
+  193  08/07/22 23:50:35 python3 contemplate_koans.py
+  194  08/07/22 23:50:35 python3 contemplate_koans.py
+  195  08/07/22 23:50:35 python3 contemplate_koans.py
+  196  08/07/22 23:50:35 python3 contemplate_koans.py
+  197  08/07/22 23:50:35 python3 contemplate_koans.py
+  198  08/07/22 23:50:35 [A
+  199  08/07/22 23:50:35 python3 contemplate_koans.py
+  200  08/07/22 23:50:35 python3 contemplate_koans.py
+  201  08/07/22 23:50:35 python3 contemplate_koans.py
+  202  08/07/22 23:50:35 python3 contemplate_koans.py
+  203  08/07/22 23:50:35 python3 contemplate_koans.py
+  204  08/07/22 23:50:35 python3 contemplate_koans.py
+  205  08/07/22 23:50:35 python3
+  206  08/07/22 23:50:35 python3
+  207  08/07/22 23:50:35 python3 contemplate_koans.py
+  208  08/07/22 23:50:35 python3 contemplate_koans.py
+  209  08/07/22 23:50:35 python3 contemplate_koans.py
+  210  08/07/22 23:50:35 python3 contemplate_koans.py
+  211  08/07/22 23:50:35 python3 contemplate_koans.py
+  212  08/07/22 23:50:35 python3 contemplate_koans.py
+  213  08/07/22 23:50:35 python3 contemplate_koans.py
+  214  08/07/22 23:50:35 python3 contemplate_koans.py
+  215  08/07/22 23:50:35 python3 contemplate_koans.py
+  216  08/07/22 23:50:35 python3 contemplate_koans.py
+  217  08/07/22 23:50:35 python3 contemplate_koans.py
+  218  08/07/22 23:50:35 python3 contemplate_koans.py
+  219  08/07/22 23:50:35 python3 contemplate_koans.py
+  220  08/07/22 23:50:35 python3 contemplate_koans.py
+  221  08/07/22 23:50:35 python3 contemplate_koans.py
+  222  08/07/22 23:50:35 python3 contemplate_koans.py
+  223  08/07/22 23:50:35 git status
+  224  08/07/22 23:50:35 git diff
+  225  08/07/22 23:50:35 git commit -am "33% complete, 103/279, 1/37 lessons"
+  226  08/07/22 23:50:35 git push origin master
+  227  08/07/22 23:50:35 cd ..
+  228  08/07/22 23:50:35 which node
+  229  08/07/22 23:50:35 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+  230  08/07/22 23:50:35 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+  231  08/07/22 23:50:35 which nvm
+  232  08/07/22 23:50:35 source ~/.bashrc
+  233  08/07/22 23:50:35 which nvm
+  234  08/07/22 23:50:35 nvm
+  235  08/07/22 23:50:35 which nvm
+  236  08/07/22 23:50:35 nvm --version
+  237  08/07/22 23:50:35 nvm install stable
+  238  08/07/22 23:50:35 which node
+  239  08/07/22 23:50:35 node --version
+  240  08/07/22 23:50:35 git clone git@github.com:sergeimellow/leet-code-solutions.git
+  241  08/07/22 23:50:35 subl leet-code-solutions/
+  242  08/07/22 23:50:35 node leet-code-solutions/0011.js
+  243  08/07/22 23:50:35 node leet-code-solutions/0011.js
+  244  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  245  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  246  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  247  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  248  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  249  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  250  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  251  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  252  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  253  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  254  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  255  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  256  08/07/22 23:50:35 git diff
+  257  08/07/22 23:50:35 cd leet-code-solutions/
+  258  08/07/22 23:50:35 git diff
+  259  08/07/22 23:50:35 git commit -am "committing before restarting, this problem is a nightmare"
+  260  08/07/22 23:50:35 git push origin master
+  261  08/07/22 23:50:35 node leet-code-solutions/0010.js
+  262  08/07/22 23:50:35 node 0010.js
+  263  08/07/22 23:50:35 node 0010.js
+  264  08/07/22 23:50:35 node 0010.js
+  265  08/07/22 23:50:35 node 0010.js
+  266  08/07/22 23:50:35 node 0010.js
+  267  08/07/22 23:50:35 node 0010.js
+  268  08/07/22 23:50:35 node 0010.js
+  269  08/07/22 23:50:35 node 0010.js
+  270  08/07/22 23:50:35 node 0010.js
+  271  08/07/22 23:50:35 node 0010.js
+  272  08/07/22 23:50:35 node 0010.js
+  273  08/07/22 23:50:35 node 0010.js
+  274  08/07/22 23:50:35 node 0010.js
+  275  08/07/22 23:50:35 node 0010.js
+  276  08/07/22 23:50:35 node 0010.js
+  277  08/07/22 23:50:35 node 0010.js
+  278  08/07/22 23:50:35 node 0010.js
+  279  08/07/22 23:50:35 node 0010.js
+  280  08/07/22 23:50:35 node 0010.js
+  281  08/07/22 23:50:35 node 0010.js
+  282  08/07/22 23:50:35 node 0010.js
+  283  08/07/22 23:50:35 node 0010.js
+  284  08/07/22 23:50:35 node 0010.js
+  285  08/07/22 23:50:35 node 0010.js
+  286  08/07/22 23:50:35 node 0010.js
+  287  08/07/22 23:50:35 node 0010.js
+  288  08/07/22 23:50:35 node 0010.js
+  289  08/07/22 23:50:35 node 0010.js
+  290  08/07/22 23:50:35 node 0010.js
+  291  08/07/22 23:50:35 node 0010.js
+  292  08/07/22 23:50:35 node 0010.js
+  293  08/07/22 23:50:35 node 0010.js
+  294  08/07/22 23:50:35 node 0010.js
+  295  08/07/22 23:50:35 node 0010.js
+  296  08/07/22 23:50:35 node 0010.js
+  297  08/07/22 23:50:35 node 0010.js
+  298  08/07/22 23:50:35 node 0010.js
+  299  08/07/22 23:50:35 node 0010.js
+  300  08/07/22 23:50:35 node 0010.js
+  301  08/07/22 23:50:35 node 0010.js
+  302  08/07/22 23:50:35 node 0010.js
+  303  08/07/22 23:50:35 node 0010.js
+  304  08/07/22 23:50:35 node 0010.js
+  305  08/07/22 23:50:35 node 0010.js
+  306  08/07/22 23:50:35 node 0010.js
+  307  08/07/22 23:50:35 node 0010.js
+  308  08/07/22 23:50:35 node 0010.js
+  309  08/07/22 23:50:35 node 0010.js
+  310  08/07/22 23:50:35 node 0010.js
+  311  08/07/22 23:50:35 node 0010.js
+  312  08/07/22 23:50:35 node 0010.js
+  313  08/07/22 23:50:35 node 0010.js
+  314  08/07/22 23:50:35 node 0010.js
+  315  08/07/22 23:50:35 node 0010.js
+  316  08/07/22 23:50:35 node 0010.js
+  317  08/07/22 23:50:35 node 0010.js
+  318  08/07/22 23:50:35 node 0010.js
+  319  08/07/22 23:50:35 node 0010.js
+  320  08/07/22 23:50:35 node 0010.js
+  321  08/07/22 23:50:35 node 0010.js
+  322  08/07/22 23:50:35 node 0010.js
+  323  08/07/22 23:50:35 node 0010.js
+  324  08/07/22 23:50:35 node 0010.js
+  325  08/07/22 23:50:35 node 0010.js
+  326  08/07/22 23:50:35 node 0010.js
+  327  08/07/22 23:50:35 node 0010.js
+  328  08/07/22 23:50:35 node 0010.js
+  329  08/07/22 23:50:35 node 0010.js
+  330  08/07/22 23:50:35 node 0010.js
+  331  08/07/22 23:50:35 node 0010.js
+  332  08/07/22 23:50:35 node 0010.js
+  333  08/07/22 23:50:35 node 0010.js
+  334  08/07/22 23:50:35 node 0010.js
+  335  08/07/22 23:50:35 node 0010.js
+  336  08/07/22 23:50:35 node 0010.js
+  337  08/07/22 23:50:35 node 0010.js
+  338  08/07/22 23:50:35 node 0010.js
+  339  08/07/22 23:50:35 node 0010.js
+  340  08/07/22 23:50:35 node 0010.js
+  341  08/07/22 23:50:35 node 0010.js
+  342  08/07/22 23:50:35 node 0010.js
+  343  08/07/22 23:50:35 node 0010.js
+  344  08/07/22 23:50:35 node 0010.js
+  345  08/07/22 23:50:35 node 0010.js
+  346  08/07/22 23:50:35 node 0010.js
+  347  08/07/22 23:50:35 node 0010.js
+  348  08/07/22 23:50:35 node 0010.js
+  349  08/07/22 23:50:35 node 0010.js
+  350  08/07/22 23:50:35 node 0010.js
+  351  08/07/22 23:50:35 node 0010.js
+  352  08/07/22 23:50:35 node 0010.js
+  353  08/07/22 23:50:35 node 0010.js
+  354  08/07/22 23:50:35 node 0010.js
+  355  08/07/22 23:50:35 node 0010.js
+  356  08/07/22 23:50:35 node 0010.js
+  357  08/07/22 23:50:35 node 0010.js
+  358  08/07/22 23:50:35 node 0010.js
+  359  08/07/22 23:50:35 node 0010.js
+  360  08/07/22 23:50:35 node 0010.js
+  361  08/07/22 23:50:35 node 0010.js
+  362  08/07/22 23:50:35 node 0010.js
+  363  08/07/22 23:50:35 node 0010.js
+  364  08/07/22 23:50:35 node 0010.js
+  365  08/07/22 23:50:35 node 0010.js
+  366  08/07/22 23:50:35 node 0010.js
+  367  08/07/22 23:50:35 node 0010.js
+  368  08/07/22 23:50:35 node 0010.js
+  369  08/07/22 23:50:35 node 0010.js
+  370  08/07/22 23:50:35 node 0010.js
+  371  08/07/22 23:50:35 node 0010.js
+  372  08/07/22 23:50:35 node 0010.js
+  373  08/07/22 23:50:35 node 0010.js
+  374  08/07/22 23:50:35 node 0010.js
+  375  08/07/22 23:50:35 node 0010.js
+  376  08/07/22 23:50:35 node 0010.js
+  377  08/07/22 23:50:35 node 0010.js
+  378  08/07/22 23:50:35 node 0010.js
+  379  08/07/22 23:50:35 node 0010.js
+  380  08/07/22 23:50:35 node 0010.js
+  381  08/07/22 23:50:35 node 0010.js
+  382  08/07/22 23:50:35 node 0010.js
+  383  08/07/22 23:50:35 git diff
+  384  08/07/22 23:50:35 node 0010.js
+  385  08/07/22 23:50:35 node 0010.js
+  386  08/07/22 23:50:35 node 0010.js
+  387  08/07/22 23:50:35 node 0010.js
+  388  08/07/22 23:50:35 node 0010.js
+  389  08/07/22 23:50:35 node 0010.js
+  390  08/07/22 23:50:35 node 0010.js
+  391  08/07/22 23:50:35 node 0010.js
+  392  08/07/22 23:50:35 git diff
+  393  08/07/22 23:50:35 git status
+  394  08/07/22 23:50:35 cat 0011.js
+  395  08/07/22 23:50:35 git add .
+  396  08/07/22 23:50:35 git commit -m "giving up for now"
+  397  08/07/22 23:50:35 git push origin master
+  398  08/07/22 23:50:35 cd cd ../python_koans/
+  399  08/07/22 23:50:35 cd ../python_koans/
+  400  08/07/22 23:50:35 wd
+  401  08/07/22 23:50:35 python3 contemplate_koans.py
+  402  08/07/22 23:50:35 cd ..
+  403  08/07/22 23:50:35 git clone git@github.com:TheAlgorithms/Python.git
+  404  08/07/22 23:50:35 ls
+  405  08/07/22 23:50:35 ls -lrt
+  406  08/07/22 23:50:35 mv -r Python/ Python-All-Algorithms
+  407  08/07/22 23:50:35 cp -rp Python/ Python-All-Algorithms
+  408  08/07/22 23:50:35 cd Python
+  409  08/07/22 23:50:35 cd ../Python-All-Algorithms/
+  410  08/07/22 23:50:35 cd ..
+  411  08/07/22 23:50:35 rm -rf Python
+  412  08/07/22 23:50:35 ls
+  413  08/07/22 23:50:35 ls
+  414  08/07/22 23:50:35 git clone https://github.com/trekhleb/learn-python
+  415  08/07/22 23:50:35 ls -lrt
+  416  08/07/22 23:50:35 saub learn-python/
+  417  08/07/22 23:50:35 subl learn-python/
+  418  08/07/22 23:50:35 subl  Python-All-Algorithms/
+  419  08/07/22 23:50:35 subl  Python-All-Algorithms/
+  420  08/07/22 23:50:35 cd ~/work/let
+  421  08/07/22 23:50:35 cd ~/work/leet-code-solutions/
+  422  08/07/22 23:50:35 node 0011.js
+  423  08/07/22 23:50:35 node 0011.js
+  424  08/07/22 23:50:35 node 0011.js
+  425  08/07/22 23:50:35 node 0011.js
+  426  08/07/22 23:50:35 node 0011.js
+  427  08/07/22 23:50:35 node 0011.js
+  428  08/07/22 23:50:35 node 0011.js
+  429  08/07/22 23:50:35 node 0011.js
+  430  08/07/22 23:50:35 node 0011.js
+  431  08/07/22 23:50:35 node 0011.js
+  432  08/07/22 23:50:35 node 0011.js
+  433  08/07/22 23:50:35 node 0011.js
+  434  08/07/22 23:50:35 node 0011.js
+  435  08/07/22 23:50:35 git diff
+  436  08/07/22 23:50:35 git diff
+  437  08/07/22 23:50:35 git add .
+  438  08/07/22 23:50:35 git commit -am "my crappy simpe solution for 11"
+  439  08/07/22 23:50:35 git push origin master
+  440  08/07/22 23:50:35 cd ../Python-All-Algorithms/
+  441  08/07/22 23:50:35 cd ../python_koans/
+  442  08/07/22 23:50:35 git status
+  443  08/07/22 23:50:35 git diff
+  444  08/07/22 23:50:35 git log
+  445  08/07/22 23:50:35 python3 contemplate_koans.py
+  446  08/07/22 23:50:35 python3 contemplate_koans.py
+  447  08/07/22 23:50:35 python3 contemplate_koans.py
+  448  08/07/22 23:50:35 python3 contemplate_koans.py
+  449  08/07/22 23:50:35 python3 contemplate_koans.py
+  450  08/07/22 23:50:35 python3 contemplate_koans.py
+  451  08/07/22 23:50:35 python3 contemplate_koans.py
+  452  08/07/22 23:50:35 python3 contemplate_koans.py
+  453  08/07/22 23:50:35 python3 contemplate_koans.py
+  454  08/07/22 23:50:35 python3 contemplate_koans.py
+  455  08/07/22 23:50:35 python3 contemplate_koans.py
+  456  08/07/22 23:50:35 python3 contemplate_koans.py
+  457  08/07/22 23:50:35 python3 contemplate_koans.py
+  458  08/07/22 23:50:35 python3 contemplate_koans.py
+  459  08/07/22 23:50:35 python3 contemplate_koans.py
+  460  08/07/22 23:50:35 python3 contemplate_koans.py
+  461  08/07/22 23:50:35 python3 contemplate_koans.py
+  462  08/07/22 23:50:35 python3 contemplate_koans.py
+  463  08/07/22 23:50:35 python3 contemplate_koans.py
+  464  08/07/22 23:50:35 python3 contemplate_koans.py
+  465  08/07/22 23:50:35 python3 contemplate_koans.py
+  466  08/07/22 23:50:35 python3 contemplate_koans.py
+  467  08/07/22 23:50:35 python3 contemplate_koans.py
+  468  08/07/22 23:50:35 python3 contemplate_koans.py
+  469  08/07/22 23:50:35 python3 contemplate_koans.py
+  470  08/07/22 23:50:35 python3 contemplate_koans.py
+  471  08/07/22 23:50:35 python3 contemplate_koans.py
+  472  08/07/22 23:50:35 python3 contemplate_koans.py
+  473  08/07/22 23:50:35 python3 contemplate_koans.py
+  474  08/07/22 23:50:35 python3 contemplate_koans.py
+  475  08/07/22 23:50:35 python3 contemplate_koans.py
+  476  08/07/22 23:50:35 python3 contemplate_koans.py
+  477  08/07/22 23:50:35 python3 contemplate_koans.py
+  478  08/07/22 23:50:35 python3 contemplate_koans.py
+  479  08/07/22 23:50:35 python3 contemplate_koans.py
+  480  08/07/22 23:50:35 python3 contemplate_koans.py
+  481  08/07/22 23:50:35 python3 contemplate_koans.py
+  482  08/07/22 23:50:35 python3 contemplate_koans.py
+  483  08/07/22 23:50:35 python3 contemplate_koans.py
+  484  08/07/22 23:50:35 python3 contemplate_koans.py
+  485  08/07/22 23:50:35 python3 contemplate_koans.py
+  486  08/07/22 23:50:35 python3 contemplate_koans.py
+  487  08/07/22 23:50:35 python3 contemplate_koans.py
+  488  08/07/22 23:50:35 python3 contemplate_koans.py
+  489  08/07/22 23:50:35 python3 contemplate_koans.py
+  490  08/07/22 23:50:35 python3 contemplate_koans.py
+  491  08/07/22 23:50:35 subl ../learn-python/
+  492  08/07/22 23:50:35 subl ../learn-python/
+  493  08/07/22 23:50:35 python3 contemplate_koans.py
+  494  08/07/22 23:50:35 python3 contemplate_koans.py
+  495  08/07/22 23:50:35 python3 contemplate_koans.py
+  496  08/07/22 23:50:35 python3 contemplate_koans.py
+  497  08/07/22 23:50:35 python3 contemplate_koans.py
+  498  08/07/22 23:50:35 python3 contemplate_koans.py
+  499  08/07/22 23:50:35 python3 contemplate_koans.py
+  500  08/07/22 23:50:35 python3 contemplate_koans.py
+  501  08/07/22 23:50:35 python3 contemplate_koans.py
+  502  08/07/22 23:50:35 python3 contemplate_koans.py
+  503  08/07/22 23:50:35 python3 contemplate_koans.py
+  504  08/07/22 23:50:35 python3 contemplate_koans.py
+  505  08/07/22 23:50:35 python3 contemplate_koans.py
+  506  08/07/22 23:50:35 git commit -am "36% complete, 111/279, 12/37 lessons"
+  507  08/07/22 23:50:35 git push origin master
+  508  08/07/22 23:50:35 git push origin master
+  509  08/07/22 23:50:35 python3 contemplate_koans.py
+  510  08/07/22 23:50:35 python3 contemplate_koans.py
+  511  08/07/22 23:50:35 python3 contemplate_koans.py
+  512  08/07/22 23:50:35 python3 contemplate_koans.py
+  513  08/07/22 23:50:35 python3 contemplate_koans.py
+  514  08/07/22 23:50:35 python3 contemplate_koans.py
+  515  08/07/22 23:50:35 python3 contemplate_koans.py
+  516  08/07/22 23:50:35 python3 contemplate_koans.py
+  517  08/07/22 23:50:35 python3 contemplate_koans.py
+  518  08/07/22 23:50:35 python3 contemplate_koans.py
+  519  08/07/22 23:50:35 python3 contemplate_koans.py
+  520  08/07/22 23:50:35 python3 contemplate_koans.py
+  521  08/07/22 23:50:35 python3 contemplate_koans.py
+  522  08/07/22 23:50:35 python3 contemplate_koans.py
+  523  08/07/22 23:50:35 python3 contemplate_koans.py
+  524  08/07/22 23:50:35 python3 contemplate_koans.py
+  525  08/07/22 23:50:35 python3 contemplate_koans.py
+  526  08/07/22 23:50:35 python3 contemplate_koans.py
+  527  08/07/22 23:50:35 python3 contemplate_koans.py
+  528  08/07/22 23:50:35 python3 contemplate_koans.py
+  529  08/07/22 23:50:35 python3 contemplate_koans.py
+  530  08/07/22 23:50:35 python3 contemplate_koans.py
+  531  08/07/22 23:50:35 python3 contemplate_koans.py
+  532  08/07/22 23:50:35 python3 contemplate_koans.py
+  533  08/07/22 23:50:35 python3 contemplate_koans.py
+  534  08/07/22 23:50:35 python3 contemplate_koans.py
+  535  08/07/22 23:50:35 python3 contemplate_koans.py
+  536  08/07/22 23:50:35 python3 contemplate_koans.py
+  537  08/07/22 23:50:35 range(1,6)
+  538  08/07/22 23:50:35 python3 contemplate_koans.py
+  539  08/07/22 23:50:35 python3 contemplate_koans.py
+  540  08/07/22 23:50:35 python3 contemplate_koans.py
+  541  08/07/22 23:50:35 htop
+  542  08/07/22 23:50:35 ls
+  543  08/07/22 23:50:35 cd ..
+  544  08/07/22 23:50:35 vim making-the-requests.js
+  545  08/07/22 23:50:35 vim making-the-requests.js
+  546  08/07/22 23:50:35 man making-the-requests.js
+  547  08/07/22 23:50:35 pwd
+  548  08/07/22 23:50:35 cat making-the-requests.js
+  549  08/07/22 23:50:35 which node
+  550  08/07/22 23:50:35 cat making-the-requests.js
+  551  08/07/22 23:50:35 vim making-the-requests.js
+  552  08/07/22 23:50:35 node making-the-requests.js
+  553  08/07/22 23:50:35 vim making-the-requests.js
+  554  08/07/22 23:50:35 node making-the-requests.js
+  555  08/07/22 23:50:35 vim making-the-requests.js
+  556  08/07/22 23:50:35 vim making-the-requests.js
+  557  08/07/22 23:50:35 node making-the-requests.js
+  558  08/07/22 23:50:35 vim making-the-requests.js
+  559  08/07/22 23:50:35 vim making-the-requests.js
+  560  08/07/22 23:50:35 node making-the-requests.js
+  561  08/07/22 23:50:35 vim making-the-requests.js
+  562  08/07/22 23:50:35 node making-the-requests.js
+  563  08/07/22 23:50:35 vim making-the-requests.js
+  564  08/07/22 23:50:35 vim making-the-requests.js
+  565  08/07/22 23:50:35 vim making-the-requests.js
+  566  08/07/22 23:50:35 node making-the-requests.js
+  567  08/07/22 23:50:35 vim making-the-requests.js
+  568  08/07/22 23:50:35 node making-the-requests.js
+  569  08/07/22 23:50:35 vim making-the-requests.js
+  570  08/07/22 23:50:35 node making-the-requests.js
+  571  08/07/22 23:50:35 node making-the-requests.js
+  572  08/07/22 23:50:35 vim making-the-requests.js [A
+  573  08/07/22 23:50:35 node making-the-requests.js
+  574  08/07/22 23:50:35 which node
+  575  08/07/22 23:50:35 cat making-the-requests.js
+  576  08/07/22 23:50:35 node making-the-requests.js
+  577  08/07/22 23:50:35 vim making-the-requests.js [A
+  578  08/07/22 23:50:35 node making-the-requests.js
+  579  08/07/22 23:50:35 which node
+  580  08/07/22 23:50:35 cat making-the-requests.js
+  581  08/07/22 23:50:35 cat making-the-requests.js
+  582  08/07/22 23:50:35 node making-the-requests.js
+  583  08/07/22 23:50:35 which node
+  584  08/07/22 23:50:35 cd python_koans/
+  585  08/07/22 23:50:35 python3 contemplate_koans.py
+  586  08/07/22 23:50:35 python3 contemplate_koans.py
+  587  08/07/22 23:50:35 python3 contemplate_koans.py
+  588  08/07/22 23:50:35 python3 contemplate_koans.py
+  589  08/07/22 23:50:35 python3 contemplate_koans.py
+  590  08/07/22 23:50:35 python3 contemplate_koans.py
+  591  08/07/22 23:50:35 python3 contemplate_koans.py
+  592  08/07/22 23:50:35 python3 contemplate_koans.py
+  593  08/07/22 23:50:35 python3 contemplate_koans.py
+  594  08/07/22 23:50:35 python3 contemplate_koans.py
+  595  08/07/22 23:50:35 python3 contemplate_koans.py
+  596  08/07/22 23:50:35 python
+  597  08/07/22 23:50:35 python3
+  598  08/07/22 23:50:35 python3 contemplate_koans.py
+  599  08/07/22 23:50:35 python3 contemplate_koans.py
+  600  08/07/22 23:50:35 python3 contemplate_koans.py
+  601  08/07/22 23:50:35 python3 contemplate_koans.py
+  602  08/07/22 23:50:35 Python
+  603  08/07/22 23:50:35 python3
+  604  08/07/22 23:50:35 python3
+  605  08/07/22 23:50:35 python3 contemplate_koans.py
+  606  08/07/22 23:50:35 list_of_eggs = ['poached egg', 'fried egg']
+  607  08/07/22 23:50:35 python
+  608  08/07/22 23:50:35 python3
+  609  08/07/22 23:50:35 python3 contemplate_koans.py
+  610  08/07/22 23:50:35 python3 contemplate_koans.py
+  611  08/07/22 23:50:35 python3 contemplate_koans.py
+  612  08/07/22 23:50:35 python3 contemplate_koans.py
+  613  08/07/22 23:50:35 python3 contemplate_koans.py
+  614  08/07/22 23:50:35 python3 contemplate_koans.py
+  615  08/07/22 23:50:35 python3 contemplate_koans.py
+  616  08/07/22 23:50:35 python3 contemplate_koans.py
+  617  08/07/22 23:50:35 python3 contemplate_koans.py
+  618  08/07/22 23:50:35 python3 contemplate_koans.py
+  619  08/07/22 23:50:35 python3 contemplate_koans.py
+  620  08/07/22 23:50:35 python3 contemplate_koans.py
+  621  08/07/22 23:50:35 python3 contemplate_koans.py
+  622  08/07/22 23:50:35 python3 contemplate_koans.py
+  623  08/07/22 23:50:35 python3 contemplate_koans.py
+  624  08/07/22 23:50:35 python3 contemplate_koans.py
+  625  08/07/22 23:50:35 python3 contemplate_koans.py
+  626  08/07/22 23:50:35 python3 contemplate_koans.py
+  627  08/07/22 23:50:35 python3 contemplate_koans.py
+  628  08/07/22 23:50:35 python3 contemplate_koans.py
+  629  08/07/22 23:50:35 python3 contemplate_koans.py
+  630  08/07/22 23:50:35 python3 contemplate_koans.py
+  631  08/07/22 23:50:35 python3 contemplate_koans.py
+  632  08/07/22 23:50:35 python3 contemplate_koans.py
+  633  08/07/22 23:50:35 python3 contemplate_koans.py
+  634  08/07/22 23:50:35 python3 contemplate_koans.py
+  635  08/07/22 23:50:35 python3 contemplate_koans.py
+  636  08/07/22 23:50:35 python3 contemplate_koans.py
+  637  08/07/22 23:50:35 python3 contemplate_koans.py
+  638  08/07/22 23:50:35 python3 contemplate_koans.py
+  639  08/07/22 23:50:35 python3 contemplate_koans.py
+  640  08/07/22 23:50:35 python3 contemplate_koans.py
+  641  08/07/22 23:50:35 python3 contemplate_koans.py
+  642  08/07/22 23:50:35 python3 contemplate_koans.py
+  643  08/07/22 23:50:35 python3 contemplate_koans.py
+  644  08/07/22 23:50:35 python3 contemplate_koans.py
+  645  08/07/22 23:50:35 python3 contemplate_koans.py
+  646  08/07/22 23:50:35 python3 contemplate_koans.py
+  647  08/07/22 23:50:35 python3 contemplate_koans.py
+  648  08/07/22 23:50:35 python3 contemplate_koans.py
+  649  08/07/22 23:50:35 python3 contemplate_koans.py
+  650  08/07/22 23:50:35 python3 contemplate_koans.py
+  651  08/07/22 23:50:35 python3 contemplate_koans.py
+  652  08/07/22 23:50:35 python3 contemplate_koans.py
+  653  08/07/22 23:50:35 python3 contemplate_koans.py
+  654  08/07/22 23:50:35 python3 contemplate_koans.py
+  655  08/07/22 23:50:35 python3 contemplate_koans.py
+  656  08/07/22 23:50:35 python3 contemplate_koans.py
+  657  08/07/22 23:50:35 python3 contemplate_koans.py
+  658  08/07/22 23:50:35 python3 contemplate_koans.py
+  659  08/07/22 23:50:35 python3 contemplate_koans.py
+  660  08/07/22 23:50:35 python3 contemplate_koans.py
+  661  08/07/22 23:50:35 python3 contemplate_koans.py
+  662  08/07/22 23:50:35 python3 contemplate_koans.py
+  663  08/07/22 23:50:35 python3 contemplate_koans.py
+  664  08/07/22 23:50:35 python3 contemplate_koans.py
+  665  08/07/22 23:50:35 python3 contemplate_koans.py
+  666  08/07/22 23:50:35 python3 contemplate_koans.py
+  667  08/07/22 23:50:35 python3 contemplate_koans.py
+  668  08/07/22 23:50:35 python3 contemplate_koans.py
+  669  08/07/22 23:50:35 python3 contemplate_koans.py
+  670  08/07/22 23:50:35 python3 contemplate_koans.py
+  671  08/07/22 23:50:35 python3 contemplate_koans.py
+  672  08/07/22 23:50:35 python3 contemplate_koans.py
+  673  08/07/22 23:50:35 python3 contemplate_koans.py
+  674  08/07/22 23:50:35 python3 contemplate_koans.py
+  675  08/07/22 23:50:35 python3 contemplate_koans.py
+  676  08/07/22 23:50:35 python3 contemplate_koans.py
+  677  08/07/22 23:50:35 python3 contemplate_koans.py
+  678  08/07/22 23:50:35 python3 contemplate_koans.py
+  679  08/07/22 23:50:35 python3 contemplate_koans.py
+  680  08/07/22 23:50:35 git status
+  681  08/07/22 23:50:35 git commit -am "51% complete, 158/279, 20/37 lessons"
+  682  08/07/22 23:50:35 git push origin master
+  683  08/07/22 23:50:35 python3 contemplate_koans.py
+  684  08/07/22 23:50:35 python3 contemplate_koans.py
+  685  08/07/22 23:50:35 python3 contemplate_koans.py
+  686  08/07/22 23:50:35 python3 contemplate_koans.py
+  687  08/07/22 23:50:35 python3 contemplate_koans.py
+  688  08/07/22 23:50:35 python3 contemplate_koans.py
+  689  08/07/22 23:50:35 python3 contemplate_koans.py
+  690  08/07/22 23:50:35 python3 contemplate_koans.py
+  691  08/07/22 23:50:35 python3 contemplate_koans.py
+  692  08/07/22 23:50:35 python3 contemplate_koans.py
+  693  08/07/22 23:50:35 python3 contemplate_koans.py
+  694  08/07/22 23:50:35 python3 contemplate_koans.py
+  695  08/07/22 23:50:35 python3 contemplate_koans.py
+  696  08/07/22 23:50:35 python3 contemplate_koans.py
+  697  08/07/22 23:50:35 python3 contemplate_koans.py
+  698  08/07/22 23:50:35 python3 contemplate_koans.py
+  699  08/07/22 23:50:35 python3 contemplate_koans.py
+  700  08/07/22 23:50:35 python3 contemplate_koans.py
+  701  08/07/22 23:50:35 python3 contemplate_koans.py
+  702  08/07/22 23:50:35 python3 contemplate_koans.py
+  703  08/07/22 23:50:35 python3 contemplate_koans.py
+  704  08/07/22 23:50:35 python3 contemplate_koans.py
+  705  08/07/22 23:50:35 python3 contemplate_koans.py
+  706  08/07/22 23:50:35 python3 contemplate_koans.py
+  707  08/07/22 23:50:35 python3 contemplate_koans.py
+  708  08/07/22 23:50:35 python3 contemplate_koans.py
+  709  08/07/22 23:50:35 python3 contemplate_koans.py
+  710  08/07/22 23:50:35 python3 contemplate_koans.py
+  711  08/07/22 23:50:35 python3 contemplate_koans.py
+  712  08/07/22 23:50:35 python3 contemplate_koans.py
+  713  08/07/22 23:50:35 python3 contemplate_koans.py
+  714  08/07/22 23:50:35 python3 contemplate_koans.py
+  715  08/07/22 23:50:35 python3 contemplate_koans.py
+  716  08/07/22 23:50:35 python3 contemplate_koans.py
+  717  08/07/22 23:50:35 python3 contemplate_koans.py
+  718  08/07/22 23:50:35 python3 contemplate_koans.py
+  719  08/07/22 23:50:35 python3 contemplate_koans.py
+  720  08/07/22 23:50:35 python3 contemplate_koans.py
+  721  08/07/22 23:50:35 git log
+  722  08/07/22 23:50:35 git commit -am "58% complete, 178/279, 22/37 lessons"
+  723  08/07/22 23:50:35 git push origin master
+  724  08/07/22 23:50:35 python3 contemplate_koans.py
+  725  08/07/22 23:50:35 python3 contemplate_koans.py
+  726  08/07/22 23:50:35 python3 contemplate_koans.py
+  727  08/07/22 23:50:35 python3 contemplate_koans.py
+  728  08/07/22 23:50:35 python3 contemplate_koans.py
+  729  08/07/22 23:50:35 python3 contemplate_koans.py
+  730  08/07/22 23:50:35 python3 contemplate_koans.py
+  731  08/07/22 23:50:35 python3 contemplate_koans.py
+  732  08/07/22 23:50:35 python3 contemplate_koans.py
+  733  08/07/22 23:50:35 python3 contemplate_koans.py
+  734  08/07/22 23:50:35 python3 contemplate_koans.py
+  735  08/07/22 23:50:35 python3 contemplate_koans.py
+  736  08/07/22 23:50:35 git diff
+  737  08/07/22 23:50:35 python3 contemplate_koans.py
+  738  08/07/22 23:50:35 python3 contemplate_koans.py
+  739  08/07/22 23:50:35 python3 contemplate_koans.py
+  740  08/07/22 23:50:35 python3 contemplate_koans.py
+  741  08/07/22 23:50:35 python3 contemplate_koans.py
+  742  08/07/22 23:50:35 python3 contemplate_koans.py
+  743  08/07/22 23:50:35 python3 contemplate_koans.py
+  744  08/07/22 23:50:35 python3 contemplate_koans.py
+  745  08/07/22 23:50:35 python3 contemplate_koans.py
+  746  08/07/22 23:50:35 python3 contemplate_koans.py
+  747  08/07/22 23:50:35 python3 contemplate_koans.py
+  748  08/07/22 23:50:35 python3 contemplate_koans.py
+  749  08/07/22 23:50:35 python3 contemplate_koans.py
+  750  08/07/22 23:50:35 python3 contemplate_koans.py
+  751  08/07/22 23:50:35 python3
+  752  08/07/22 23:50:35 python3 contemplate_koans.py
+  753  08/07/22 23:50:35 python3 contemplate_koans.py
+  754  08/07/22 23:50:35 help dir
+  755  08/07/22 23:50:35 python3 --version
+  756  08/07/22 23:50:35 python3 --version
+  757  08/07/22 23:50:35 python3 contemplate_koans.py
+  758  08/07/22 23:50:35 python3 contemplate_koans.py
+  759  08/07/22 23:50:35 python3 contemplate_koans.py
+  760  08/07/22 23:50:35 python3 contemplate_koans.py
+  761  08/07/22 23:50:35 python3 contemplate_koans.py
+  762  08/07/22 23:50:35 python3 contemplate_koans.py
+  763  08/07/22 23:50:35 python3 contemplate_koans.py
+  764  08/07/22 23:50:35 python3 contemplate_koans.py
+  765  08/07/22 23:50:35 python3 contemplate_koans.py
+  766  08/07/22 23:50:35 python3 contemplate_koans.py
+  767  08/07/22 23:50:35 python3 contemplate_koans.py
+  768  08/07/22 23:50:35 java --version
+  769  08/07/22 23:50:35 java -v
+  770  08/07/22 23:50:35 python3 contemplate_koans.py
+  771  08/07/22 23:50:35 python3 contemplate_koans.py
+  772  08/07/22 23:50:35 python3 contemplate_koans.py
+  773  08/07/22 23:50:35 python3 contemplate_koans.py
+  774  08/07/22 23:50:35 python3 contemplate_koans.py
+  775  08/07/22 23:50:35 python3 contemplate_koans.py
+  776  08/07/22 23:50:35 python3 contemplate_koans.py
+  777  08/07/22 23:50:35 python3 contemplate_koans.py
+  778  08/07/22 23:50:35 python3 contemplate_koans.py
+  779  08/07/22 23:50:35 python3 contemplate_koans.py
+  780  08/07/22 23:50:35 python3 contemplate_koans.py
+  781  08/07/22 23:50:35 python3 contemplate_koans.py
+  782  08/07/22 23:50:35 python3 contemplate_koans.py
+  783  08/07/22 23:50:35 python3 contemplate_koans.py
+  784  08/07/22 23:50:35 python3 contemplate_koans.py
+  785  08/07/22 23:50:35 python3 contemplate_koans.py
+  786  08/07/22 23:50:35 python3 contemplate_koans.py
+  787  08/07/22 23:50:35 python3 contemplate_koans.py
+  788  08/07/22 23:50:35 python3 contemplate_koans.py
+  789  08/07/22 23:50:35 python3 contemplate_koans.py
+  790  08/07/22 23:50:35 python3 contemplate_koans.py
+  791  08/07/22 23:50:35 python3 contemplate_koans.py
+  792  08/07/22 23:50:35 python3 contemplate_koans.py
+  793  08/07/22 23:50:35 git diff
+  794  08/07/22 23:50:35 git diff
+  795  08/07/22 23:50:35 git diff
+  796  08/07/22 23:50:35 git diff
+  797  08/07/22 23:50:35 python3 contemplate_koans.py
+  798  08/07/22 23:50:35 python3 contemplate_koans.py
+  799  08/07/22 23:50:35 python3 contemplate_koans.py
+  800  08/07/22 23:50:35 git commit -am "71% complete, 217/279, 28/37 lessons"
+  801  08/07/22 23:50:35 git push origin master
+  802  08/07/22 23:50:35 python3 contemplate_koans.py
+  803  08/07/22 23:50:35 python3 contemplate_koans.py
+  804  08/07/22 23:50:35 python3 contemplate_koans.py
+  805  08/07/22 23:50:35 python3 contemplate_koans.py
+  806  08/07/22 23:50:35 python3 contemplate_koans.py
+  807  08/07/22 23:50:35 python3 contemplate_koans.py
+  808  08/07/22 23:50:35 python3 contemplate_koans.py
+  809  08/07/22 23:50:35 python3 contemplate_koans.py
+  810  08/07/22 23:50:35 python3 contemplate_koans.py
+  811  08/07/22 23:50:35 python3 contemplate_koans.py
+  812  08/07/22 23:50:35 python3 contemplate_koans.py
+  813  08/07/22 23:50:35 python3 contemplate_koans.py
+  814  08/07/22 23:50:35 python3 contemplate_koans.py
+  815  08/07/22 23:50:35 python3 contemplate_koans.py
+  816  08/07/22 23:50:35 python3 contemplate_koans.py
+  817  08/07/22 23:50:35 python3 contemplate_koans.py
+  818  08/07/22 23:50:35 python3 contemplate_koans.py
+  819  08/07/22 23:50:35 python3 contemplate_koans.py
+  820  08/07/22 23:50:35 python3 contemplate_koans.py
+  821  08/07/22 23:50:35 python3 contemplate_koans.py
+  822  08/07/22 23:50:35 python3 contemplate_koans.py
+  823  08/07/22 23:50:35 python3 contemplate_koans.py
+  824  08/07/22 23:50:35 python3 contemplate_koans.py
+  825  08/07/22 23:50:35 python3 contemplate_koans.py
+  826  08/07/22 23:50:35 python3 contemplate_koans.py
+  827  08/07/22 23:50:35 python3 contemplate_koans.py
+  828  08/07/22 23:50:35 python3 contemplate_koans.py
+  829  08/07/22 23:50:35 python3 contemplate_koans.py
+  830  08/07/22 23:50:35 python3 contemplate_koans.py
+  831  08/07/22 23:50:35 python3 contemplate_koans.py
+  832  08/07/22 23:50:35 python3 contemplate_koans.py
+  833  08/07/22 23:50:35 python3 contemplate_koans.py
+  834  08/07/22 23:50:35 python3 contemplate_koans.py
+  835  08/07/22 23:50:35 python3 contemplate_koans.py
+  836  05/07/22 11:15:33 vim ~/.bash_profile
+  837  05/07/22 11:17:33 history
+  838  05/07/22 11:17:34 history
+  839  05/07/22 11:17:38 source ~/.bashrc
+  840  05/07/22 11:17:40 history
+  841  05/07/22 11:17:42 source ~/.bash_profile
+  842  05/07/22 11:17:43 history
+  843  05/07/22 11:17:49 history
+  844  05/07/22 11:17:50 history
+  845  05/07/22 11:17:51 history
+  846  05/07/22 11:17:51 history
+  847  05/07/22 11:18:35 vim ~/.bash_profile
+  848  05/07/22 11:18:43 vim ~/.bashrc
+  849  05/07/22 11:19:06 vim ../dot_files/.bashrc
+  850  05/07/22 11:20:20 history
+  851  05/07/22 11:13:36 history
+  852  05/07/22 11:14:20 vim ~/.bash_profile
+  853  05/07/22 11:14:38 vim ~/.bashrc
+  854  05/07/22 11:14:54 vim ~/.bash_profile.old
+  855  05/07/22 11:15:08 vim ~/.bash_profile
+  856  05/07/22 11:15:17 vim ~/.bash_profile.old
+  857  05/07/22 11:18:25 vim ~/.bash_profile.old
+  858  05/07/22 11:20:17 test
+  859  05/07/22 11:20:25 history
+  860  05/07/22 11:20:32 source ~/.bash_profile
+  861  05/07/22 11:20:33 history
+  862  05/07/22 11:20:35 test
+  863  05/07/22 11:20:38 history
+  864  05/07/22 11:20:41 history
+  865  05/07/22 11:20:45 history
+  866  05/07/22 11:20:46 history
+  867  05/07/22 11:20:46 history
+  868  05/07/22 11:20:46 history
+  869  05/07/22 11:20:47 history
+  870  05/07/22 11:20:48 test
+  871  05/07/22 11:20:49 test
+  872  05/07/22 11:20:50 test
+  873  05/07/22 11:20:51 history
+  874  05/07/22 11:20:51 history
+  875  05/07/22 11:20:52 history
+  876  30/06/22 10:13:14 range(1,6)
+  877  30/06/22 10:13:16 python3
+  878  05/07/22 11:21:35 source ~/.bash_profile
+  879  03/07/22 20:11:38 brew install openjdk@17
+  880  03/07/22 20:12:53 java -v
+  881  03/07/22 20:13:50 echo 'export PATH="/usr/local/opt/openjdk@17/bin:$PATH"' >> /Users/sergeimellow/.bash_profile
+  882  03/07/22 20:13:57 source ~/.bash_profile
+  883  03/07/22 20:14:00 java -c
+  884  03/07/22 20:14:03 java -v
+  885  03/07/22 20:14:12 java --version
+  886  05/07/22 11:13:01 history
+  887  05/07/22 11:13:11 source ~/.bash_profile
+  888  05/07/22 11:13:13 histo
+  889  05/07/22 11:13:19 source ~/.bashrc
+  890  05/07/22 11:13:21 history
+  891  05/07/22 11:21:46 source ~/.bash_profile
+  892  05/07/22 11:22:23 history
+  893  05/07/22 11:22:26 python3 contemplate_koans.py
+  894  05/07/22 11:22:31 python3 contemplate_koans.py
+  895  05/07/22 11:22:43 python3 contemplate_koans.py
+  896  05/07/22 11:22:50 python3 contemplate_koans.py
+  897  05/07/22 11:23:09 python3 contemplate_koans.py
+  898  05/07/22 11:23:28 python3 contemplate_koans.py
+  899  05/07/22 11:25:18 python3 contemplate_koans.py
+  900  05/07/22 11:25:30 python3 contemplate_koans.py
+  901  05/07/22 11:25:35 python3 contemplate_koans.py
+  902  05/07/22 11:27:15 python3 contemplate_koans.py
+  903  05/07/22 11:28:00 python3 contemplate_koans.py
+  904  05/07/22 11:31:23 python3 contemplate_koans.py
+  905  05/07/22 11:31:32 python3 contemplate_koans.py
+  906  05/07/22 11:31:44 python3 contemplate_koans.py
+  907  05/07/22 11:32:01 python3 contemplate_koans.py
+  908  05/07/22 11:32:04 python3 contemplate_koans.py
+  909  05/07/22 11:34:31 python3 contemplate_koans.py
+  910  05/07/22 11:35:21 python3 contemplate_koans.py
+  911  05/07/22 11:35:56 python3 contemplate_koans.py
+  912  05/07/22 11:37:45 python3 contemplate_koans.py
+  913  05/07/22 11:38:02 python3 contemplate_koans.py
+  914  05/07/22 11:38:14 python3 contemplate_koans.py
+  915  05/07/22 11:38:50 python3 contemplate_koans.py
+  916  05/07/22 11:40:12 python3 contemplate_koans.py
+  917  05/07/22 11:41:08 python3 contemplate_koans.py
+  918  05/07/22 11:41:20 python3 contemplate_koans.py
+  919  05/07/22 11:42:42 python3 contemplate_koans.py
+  920  05/07/22 11:43:54 python3 contemplate_koans.py
+  921  05/07/22 11:44:57 python3 contemplate_koans.py
+  922  05/07/22 11:47:30 python3 contemplate_koans.py
+  923  05/07/22 11:51:43 python3 contemplate_koans.py
+  924  05/07/22 11:53:51 python3 contemplate_koans.py
+  925  05/07/22 11:54:16 python3 contemplate_koans.py
+  926  05/07/22 11:54:25 python3 contemplate_koans.py
+  927  05/07/22 11:55:58 python3 contemplate_koans.py
+  928  05/07/22 11:57:34 python3 contemplate_koans.py
+  929  05/07/22 11:58:30 python3 contemplate_koans.py
+  930  05/07/22 11:59:10 python3 contemplate_koans.py
+  931  05/07/22 12:03:43 python3 contemplate_koans.py
+  932  05/07/22 12:03:55 python3 contemplate_koans.py
+  933  05/07/22 12:06:37 python3 contemplate_koans.py
+  934  05/07/22 12:07:05 python3 contemplate_koans.py
+  935  05/07/22 12:07:36 python3 contemplate_koans.py
+  936  05/07/22 12:08:34 python3 contemplate_koans.py
+  937  05/07/22 12:09:00 python3 contemplate_koans.py
+  938  05/07/22 12:09:31 python3 contemplate_koans.py
+  939  05/07/22 12:10:44 python3 contemplate_koans.py
+  940  05/07/22 12:12:54 python3 contemplate_koans.py
+  941  05/07/22 12:14:52 git diff
+  942  05/07/22 12:15:31 git diff
+  943  05/07/22 12:15:34 python3 contemplate_koans.py
+  944  05/07/22 12:16:18 python3 contemplate_koans.py
+  945  05/07/22 12:16:22 git diff
+  946  05/07/22 12:17:46 git diff
+  947  05/07/22 12:17:48 python3 contemplate_koans.py
+  948  05/07/22 12:20:36 python3 contemplate_koans.py
+  949  05/07/22 12:23:52 python3 contemplate_koans.py
+  950  05/07/22 12:25:54 python3 contemplate_koans.py
+  951  05/07/22 12:29:52 python3 contemplate_koans.py
+  952  05/07/22 12:30:05 python3 contemplate_koans.py
+  953  05/07/22 12:32:45 python3 contemplate_koans.py
+  954  05/07/22 12:32:56 python3 contemplate_koans.py
+  955  05/07/22 12:33:00 python3 contemplate_koans.py
+  956  05/07/22 12:33:06 python3 contemplate_koans.py
+  957  05/07/22 12:33:11 python3 contemplate_koans.py
+  958  05/07/22 12:33:16 python3 contemplate_koans.py
+  959  05/07/22 12:33:26 python3 contemplate_koans.py
+  960  05/07/22 12:35:46 python3 contemplate_koans.py
+  961  05/07/22 12:37:32 python3 contemplate_koans.py
+  962  05/07/22 12:37:42 python3 contemplate_koans.py
+  963  05/07/22 12:40:01 python3 contemplate_koans.py
+  964  05/07/22 12:40:46 python3 contemplate_koans.py
+  965  05/07/22 12:42:22 python3 contemplate_koans.py
+  966  05/07/22 12:42:29 python3 contemplate_koans.py
+  967  05/07/22 12:42:31 python3 contemplate_koans.py
+  968  05/07/22 12:44:46 python3 contemplate_koans.py
+  969  05/07/22 12:45:07 python3 contemplate_koans.py
+  970  05/07/22 12:46:34 python3 contemplate_koans.py
+  971  05/07/22 12:47:00 python3 contemplate_koans.py
+  972  05/07/22 12:47:28 python3 contemplate_koans.py
+  973  05/07/22 12:48:17 python3 contemplate_koans.py
+  974  05/07/22 12:48:28 python3 contemplate_koans.py
+  975  05/07/22 12:48:53 python3 contemplate_koans.py
+  976  05/07/22 12:49:07 python3 contemplate_koans.py
+  977  05/07/22 12:49:31 python3 contemplate_koans.py
+  978  05/07/22 12:49:48 python3 contemplate_koans.py
+  979  05/07/22 12:50:11 python3 contemplate_koans.py
+  980  05/07/22 12:50:41 python3 contemplate_koans.py
+  981  05/07/22 12:51:06 python3 contemplate_koans.py
+  982  05/07/22 12:52:32 python3 contemplate_koans.py
+  983  05/07/22 12:52:48 python3 contemplate_koans.py
+  984  05/07/22 12:53:22 python3 contemplate_koans.py
+  985  05/07/22 12:56:20 python3 contemplate_koans.py
+  986  05/07/22 12:56:31 python3 contemplate_koans.py
+  987  05/07/22 12:56:36 python3 contemplate_koans.py
+  988  05/07/22 13:46:11 python3 contemplate_koans.py
+  989  05/07/22 13:46:32 python3 contemplate_koans.py
+  990  05/07/22 13:47:05 python3 contemplate_koans.py
+  991  05/07/22 13:47:20 python3 contemplate_koans.py
+  992  05/07/22 13:47:29 python3 contemplate_koans.py
+  993  05/07/22 13:47:32 python3 contemplate_koans.py
+  994  05/07/22 13:48:06 python3 contemplate_koans.py
+  995  05/07/22 13:48:27 python3 contemplate_koans.py
+  996  05/07/22 13:48:30 python3 contemplate_koans.py
+  997  05/07/22 13:48:57 python3 contemplate_koans.py
+  998  05/07/22 13:50:52 python3 contemplate_koans.py
+  999  05/07/22 13:52:05 python3 contemplate_koans.py
+ 1000  05/07/22 13:57:29 python3 contemplate_koans.py
+ 1001  05/07/22 13:57:36 python3 contemplate_koans.py
+ 1002  05/07/22 13:58:51 python3 contemplate_koans.py
+ 1003  05/07/22 13:59:14 python3 contemplate_koans.py
+ 1004  05/07/22 14:00:19 python3 contemplate_koans.py
+ 1005  05/07/22 14:00:35 python3 contemplate_koans.py
+ 1006  05/07/22 14:01:29 python3 contemplate_koans.py
+ 1007  05/07/22 14:02:45 "123321"
+ 1008  05/07/22 14:08:09 python3 contemplate_koans.py
+ 1009  05/07/22 14:08:29 python3 contemplate_koans.py
+ 1010  05/07/22 14:08:50 python3 contemplate_koans.py
+ 1011  05/07/22 14:09:15 python3 contemplate_koans.py
+ 1012  05/07/22 14:09:27 python3 contemplate_koans.py
+ 1013  05/07/22 14:10:41 python3 contemplate_koans.py
+ 1014  05/07/22 14:11:26 python3 contemplate_koans.py
+ 1015  05/07/22 14:11:39 python3 contemplate_koans.py
+ 1016  05/07/22 14:11:44 python3 contemplate_koans.py
+ 1017  05/07/22 14:12:41 python3 contemplate_koans.py
+ 1018  05/07/22 14:12:44 python3 contemplate_koans.py
+ 1019  05/07/22 14:12:59 python3 contemplate_koans.py
+ 1020  05/07/22 14:13:06 python3 contemplate_koans.py
+ 1021  05/07/22 14:13:08 python3 contemplate_koans.py
+ 1022  05/07/22 14:13:26 python3 contemplate_koans.py
+ 1023  05/07/22 14:13:40 python3 contemplate_koans.py
+ 1024  05/07/22 14:13:43 python3 contemplate_koans.py
+ 1025  05/07/22 14:13:47 python3 contemplate_koans.py
+ 1026  05/07/22 14:13:58 python3 contemplate_koans.py
+ 1027  05/07/22 14:14:16 python3 contemplate_koans.py
+ 1028  05/07/22 14:14:21 python3 contemplate_koans.py
+ 1029  05/07/22 14:14:30 python3 contemplate_koans.py
+ 1030  05/07/22 14:14:45 python3 contemplate_koans.py
+ 1031  05/07/22 14:15:00 python3 contemplate_koans.py
+ 1032  05/07/22 14:15:09 python3 contemplate_koans.py
+ 1033  05/07/22 14:15:21 python3 contemplate_koans.py
+ 1034  05/07/22 14:16:34 python3 contemplate_koans.py
+ 1035  05/07/22 14:18:38 python3 contemplate_koans.py
+ 1036  05/07/22 14:19:14 python3 contemplate_koans.py
+ 1037  05/07/22 14:19:57 python3 contemplate_koans.py
+ 1038  05/07/22 14:20:55 python3 contemplate_koans.py
+ 1039  05/07/22 14:21:29 python3 contemplate_koans.py
+ 1040  05/07/22 14:22:12 python3 contemplate_koans.py
+ 1041  05/07/22 14:22:23 python3 contemplate_koans.py
+ 1042  05/07/22 14:22:46 python3 contemplate_koans.py
+ 1043  05/07/22 14:23:18 python3 contemplate_koans.py
+ 1044  05/07/22 14:23:36 python3 contemplate_koans.py
+ 1045  05/07/22 14:23:45 python3 contemplate_koans.py
+ 1046  05/07/22 14:24:00 python3 contemplate_koans.py
+ 1047  05/07/22 14:24:59 python3 contemplate_koans.py
+ 1048  05/07/22 14:25:11 python3 contemplate_koans.py
+ 1049  05/07/22 14:25:18 python3 contemplate_koans.py
+ 1050  05/07/22 14:26:47 git commit -am "100% complete, 304 koans, 37/37 lessons"
+ 1051  05/07/22 14:26:53 git push origin master
+ 1052  05/07/22 14:26:54 git log
+ 1053  05/07/22 14:58:45 git diff
+ 1054  05/07/22 14:58:51 git stash
+ 1055  05/07/22 18:40:54 cd ..
+ 1056  05/07/22 18:44:45 mkdir async-python-requests
+ 1057  05/07/22 18:44:48 cd async-python-requests/
+ 1058  05/07/22 18:44:51 subl
+ 1059  05/07/22 18:45:14 cd ..
+ 1060  05/07/22 18:45:17 rm -rf async-python-requests/
+ 1061  05/07/22 18:45:23 mkdir async_python_requests
+ 1062  05/07/22 18:45:50 subl make_requests.py\
+ 1063  05/07/22 18:46:23 mv make_requests.py async_python_requests/make_requests.py
+ 1064  05/07/22 18:46:26 cd async_python_requests/
+ 1065  05/07/22 18:46:33 cd async_python_requests/
+ 1066  05/07/22 18:46:36 subl .
+ 1067  05/07/22 18:46:43 python3 make_requests.py
+ 1068  05/07/22 18:50:51 python3 make_requests.py
+ 1069  05/07/22 18:51:07 python3 make_requests.py
+ 1070  05/07/22 18:51:22 python3 make_requests.py
+ 1071  05/07/22 18:52:23 python3 make_requests.py
+ 1072  05/07/22 18:53:05 python3 make_requests.py
+ 1073  06/07/22 09:21:14 ls
+ 1074  06/07/22 09:21:17 vim test.py
+ 1075  06/07/22 09:21:21 rm test.py
+ 1076  06/07/22 09:31:03 ls
+ 1077  06/07/22 09:32:31 cd ../async_python_requests/
+ 1078  06/07/22 09:35:54 python make_async_requests.py
+ 1079  06/07/22 09:35:57 python3 make_async_requests.py
+ 1080  06/07/22 09:36:21 python3 make_async_requests.py
+ 1081  06/07/22 09:37:13 python3 make_async_requests.py
+ 1082  06/07/22 09:37:21 python3 make_async_requests.py
+ 1083  06/07/22 09:37:26 python3 make_async_requests.py
+ 1084  06/07/22 09:38:10 python3 make_async_requests.py
+ 1085  06/07/22 09:38:21 python3 make_async_requests.py
+ 1086  06/07/22 09:41:23 python3 make_async_requests.py
+ 1087  06/07/22 09:41:56 python3 make_async_requests.py
+ 1088  06/07/22 09:45:37 python3 make_async_requests.py
+ 1089  06/07/22 09:48:36 subl ../python_koans/
+ 1090  06/07/22 09:50:49 subl ../python_koans/
+ 1091  06/07/22 09:50:53 python3 make_async_requests.py
+ 1092  06/07/22 09:53:02 python3 make_async_requests.py
+ 1093  06/07/22 09:59:11 python3 make_async_requests.py urls.csv
+ 1094  06/07/22 09:59:22 python3 make_async_requests.py -h
+ 1095  06/07/22 10:06:12 python3 make_async_requests.py
+ 1096  06/07/22 10:08:42 python3 make_async_requests.py
+ 1097  06/07/22 10:08:55 python3 make_async_requests.py
+ 1098  06/07/22 10:09:26 ls
+ 1099  06/07/22 10:20:44 python3 make_async_requests.py
+ 1100  06/07/22 10:21:20 python3 make_async_requests.py
+ 1101  06/07/22 10:21:26 python3 make_async_requests.py
+ 1102  06/07/22 10:23:19 python3 make_async_requests.py --csv
+ 1103  06/07/22 10:23:23 python3 make_async_requests.py
+ 1104  06/07/22 10:23:43 python3 make_async_requests.py -csv "test_urls.csv"
+ 1105  06/07/22 10:23:57 python3 make_async_requests.py -csv test_urls.csv
+ 1106  06/07/22 10:24:07 python3 make_async_requests.py --csv "test_urls.csv"
+ 1107  06/07/22 10:28:20 strings ~/work/top-1m.csv.zip
+ 1108  06/07/22 10:28:43 rm -rf ~/work/top-1m.csv.zip
+ 1109  06/07/22 10:33:15 python3 make_async_requests.py --csv "test_urls.csv"
+ 1110  06/07/22 10:33:22 python3 make_async_requests.py csv "test_urls.csv"
+ 1111  06/07/22 10:34:30 python3 make_async_requests.py csv "test_urls.csv"
+ 1112  06/07/22 10:34:33 python3 make_async_requests.py csv
+ 1113  06/07/22 10:34:47 python3 make_async_requests.py csv "test_urls.csv"
+ 1114  06/07/22 10:34:52 python3 make_async_requests.py csv
+ 1115  06/07/22 10:37:51 python3 make_async_requests.py top_100_urls.csv
+ 1116  06/07/22 10:41:24 python3 make_async_requests.py top_100_urls.csv
+ 1117  06/07/22 10:42:08 python3 make_async_requests.py top_100_urls.csv
+ 1118  06/07/22 10:42:14 python3 make_async_requests.py top_100_urls.csv
+ 1119  06/07/22 10:42:56 python3 make_async_requests.py top_100_urls.csv
+ 1120  06/07/22 10:43:05 python3 make_async_requests.py top_100_urls.csv
+ 1121  06/07/22 10:43:08 python3 make_async_requests.py top_100_urls.csv
+ 1122  06/07/22 10:43:22 python3 make_async_requests.py top_100_urls.csv
+ 1123  06/07/22 10:43:30 python3 make_async_requests.py top_100_urls.csv
+ 1124  06/07/22 10:44:12 python3 make_async_requests.py top_100_urls.csv
+ 1125  06/07/22 10:44:21 python3 make_async_requests.py top_100_urls.csv
+ 1126  06/07/22 10:44:32 python3 make_async_requests.py top_100_urls.csv
+ 1127  06/07/22 10:46:53 python3 make_async_requests.py top_100_urls.csv
+ 1128  06/07/22 10:47:22 python3 make_async_requests.py top_100_urls.csv
+ 1129  06/07/22 10:47:32 python3 make_async_requests.py top_100_urls.csv
+ 1130  06/07/22 10:49:35 python3 make_async_requests.py top_100_urls.csv
+ 1131  06/07/22 10:49:40 python3 make_async_requests.py top_100_urls.csv
+ 1132  06/07/22 10:49:55 python3 make_async_requests.py top_100_urls.csv
+ 1133  06/07/22 10:50:00 python3 make_async_requests.py top_100_urls.csv
+ 1134  06/07/22 10:50:39 python3 make_async_requests.py top_100_urls.csv
+ 1135  06/07/22 10:51:08 python3 make_async_requests.py top_100_urls.csv
+ 1136  06/07/22 10:51:17 python3 make_async_requests.py top_100_urls.csv
+ 1137  06/07/22 10:51:43 python3 make_async_requests.py top_100_urls.csv
+ 1138  06/07/22 10:59:04 python3 make_async_requests.py top_100_urls.csv
+ 1139  06/07/22 10:59:17 ls
+ 1140  06/07/22 10:59:26 rm -rf 165711*
+ 1141  06/07/22 10:59:26 ls
+ 1142  06/07/22 10:59:29 ls sync-requests/
+ 1143  06/07/22 10:59:31 ls async-requests/
+ 1144  06/07/22 10:59:43 rm -rf async-requests/1657119544.9*
+ 1145  06/07/22 11:07:57 python3 make_async_requests.py top_100_urls.csv
+ 1146  06/07/22 11:09:19 python3 make_async_requests.py top_100_urls.csv
+ 1147  06/07/22 11:11:07 python3 make_async_requests.py top_100_urls.csv
+ 1148  06/07/22 11:11:39 python3 make_async_requests.py top_100_urls.csv
+ 1149  06/07/22 11:20:55 ls
+ 1150  06/07/22 11:20:59 ls sync-requests/
+ 1151  06/07/22 11:21:01 ls sync-requests/
+ 1152  06/07/22 11:21:03 ls async-requests/
+ 1153  06/07/22 11:21:13 rm -rf async-requests/1657120*
+ 1154  06/07/22 11:21:19 rm -rf sync-requests/1657120077.4*
+ 1155  06/07/22 11:21:56 python3 make_async_requests.py top_100_urls.csv
+ 1156  06/07/22 11:22:17 python3 make_async_requests.py top_100_urls.csv
+ 1157  06/07/22 11:24:05 python3 make_async_requests.py top_100_urls.csv
+ 1158  06/07/22 11:25:27 python3 make_async_requests.py top_100_urls.csv
+ 1159  06/07/22 11:27:55 python3 make_async_requests.py top_100_urls.csv
+ 1160  06/07/22 11:28:52 python3 make_async_requests.py top_100_urls.csv
+ 1161  06/07/22 11:31:23 python3 make_async_requests.py top_100_urls.csv
+ 1162  06/07/22 11:40:08 python3 make_async_requests.py top_100_urls.csv
+ 1163  06/07/22 11:42:44 python3 make_async_requests.py top_100_urls.csv
+ 1164  06/07/22 11:43:34 python3 make_async_requests.py top_100_urls.csv
+ 1165  06/07/22 11:58:54 python3 make_async_requests.py top_100_urls.csv
+ 1166  06/07/22 11:59:19 python3 make_async_requests.py top_100_urls.csv
+ 1167  06/07/22 12:00:08 which pip
+ 1168  06/07/22 12:00:11 pip
+ 1169  06/07/22 12:00:46 pip
+ 1170  06/07/22 12:00:52 python3 --version
+ 1171  06/07/22 12:00:57 which python3
+ 1172  06/07/22 12:01:54 pip install pip
+ 1173  06/07/22 12:02:12 python3 -m pip --version
+ 1174  06/07/22 12:02:45 python3 pip
+ 1175  06/07/22 12:02:49 python3 -m pip --version
+ 1176  06/07/22 12:03:25 python3 -m pip install aiohttp
+ 1177  06/07/22 12:04:42 python3 make_async_requests.py top_100_urls.csv
+ 1178  06/07/22 12:14:42 python3
+ 1179  06/07/22 12:15:19 python3
+ 1180  06/07/22 12:15:42 python3 make_async_requests.py "test_urls.csv"
+ 1181  06/07/22 12:16:08 python3 make_async_requests.py top_10_urls.csv
+ 1182  06/07/22 12:16:31 python3 make_async_requests.py top_100_urls.csv
+ 1183  06/07/22 12:17:34 python3 make_async_requests.py top_100_urls.csv
+ 1184  06/07/22 12:18:41 python3 make_async_requests.py top_100_urls.csv
+ 1185  06/07/22 12:19:07 python3 make_async_requests.py top_100_urls.csv
+ 1186  06/07/22 12:19:45 python3 make_async_requests.py top_100_urls.csv
+ 1187  06/07/22 12:19:58 python3 make_async_requests.py top_100_urls.csv
+ 1188  06/07/22 12:20:27 python3 make_async_requests.py top_100_urls.csv
+ 1189  06/07/22 12:21:08 python3 make_async_requests.py top_100_urls.csv
+ 1190  06/07/22 12:21:23 ls async-requests/
+ 1191  06/07/22 12:21:33 rm -rf async-requests/165712*
+ 1192  06/07/22 12:21:40 python3 make_async_requests.py top_100_urls.csv
+ 1193  06/07/22 12:21:43 ls async-requests/
+ 1194  06/07/22 12:24:09 python3 make_async_requests.py top_100_urls.csv
+ 1195  06/07/22 12:24:28 python3 make_async_requests.py top_100_urls.csv
+ 1196  06/07/22 12:24:36 python3 make_async_requests.py top_100_urls.csv
+ 1197  06/07/22 12:24:49 python3 make_async_requests.py top_100_urls.csv
+ 1198  06/07/22 12:25:38 python3 simple_async_test.py
+ 1199  06/07/22 12:26:40 python3 make_async_requests.py top_100_urls.csv
+ 1200  06/07/22 12:27:28 python3 make_async_requests.py top_100_urls.csv
+ 1201  06/07/22 12:27:34 python3 make_async_requests.py top_100_urls.csv
+ 1202  06/07/22 12:29:15 python3 make_async_requests.py top_100_urls.csv
+ 1203  06/07/22 12:34:08 python3 make_async_requests.py top_100_urls.csv
+ 1204  06/07/22 12:34:54 python3 make_async_requests.py top_100_urls.csv
+ 1205  06/07/22 12:34:58 python3 make_async_requests.py top_100_urls.csv
+ 1206  06/07/22 12:39:15 python3 make_async_requests.py top_100_urls.csv
+ 1207  06/07/22 12:39:28 python3 make_async_requests.py top_100_urls.csv
+ 1208  06/07/22 12:40:09 python3 make_async_requests.py top_100_urls.csv
+ 1209  06/07/22 12:41:13 python3 make_async_requests.py top_100_urls.csv
+ 1210  06/07/22 12:41:30 python3 make_async_requests.py top_100_urls.csv
+ 1211  06/07/22 12:41:53 python3 make_async_requests.py top_100_urls.csv
+ 1212  06/07/22 12:42:05 python3 make_async_requests.py top_100_urls.csv
+ 1213  06/07/22 12:42:21 python3 make_async_requests.py top_100_urls.csv
+ 1214  06/07/22 12:43:08 python3 make_async_requests.py top_100_urls.csv
+ 1215  06/07/22 12:43:16 python3 make_async_requests.py top_100_urls.csv
+ 1216  06/07/22 12:43:27 python3 make_async_requests.py top_100_urls.csv
+ 1217  06/07/22 12:45:47 python3 make_async_requests.py top_100_urls.csv
+ 1218  06/07/22 12:47:43 python3 make_async_requests.py top_100_urls.csv
+ 1219  06/07/22 12:48:55 python3 make_async_requests.py top_100_urls.csv
+ 1220  06/07/22 12:52:14 python3 make_async_requests.py top_100_urls.csv
+ 1221  06/07/22 12:52:21 python3 make_async_requests.py top_100_urls.csv
+ 1222  06/07/22 12:52:52 python3 make_async_requests.py top_100_urls.csv
+ 1223  06/07/22 12:54:23 python3 make_async_requests.py top_100_urls.csv
+ 1224  06/07/22 12:56:42 python3 make_async_requests.py top_100_urls.csv
+ 1225  06/07/22 12:57:16 python3 make_async_requests.py top_100_urls.csv
+ 1226  06/07/22 12:59:13 python3 make_async_requests.py top_100_urls.csv
+ 1227  06/07/22 13:01:56 python3 make_async_requests.py top_100_urls.csv
+ 1228  06/07/22 13:02:09 python3 make_async_requests.py top_100_urls.csv
+ 1229  06/07/22 13:11:23 python3 make_async_requests.py top_100_urls.csv
+ 1230  06/07/22 13:11:47 python3 make_async_requests.py top_100_urls.csv
+ 1231  06/07/22 13:12:47 python3 make_async_requests.py top_100_urls.csv
+ 1232  06/07/22 13:22:05 python3 make_async_requests.py top_100_urls.csv
+ 1233  06/07/22 13:23:07 python3 make_async_requests.py top_100_urls.csv
+ 1234  06/07/22 13:23:22 python3 make_async_requests.py top_100_urls.csv
+ 1235  06/07/22 13:32:59 python3 make_async_requests.py top_100_urls.csv
+ 1236  06/07/22 13:37:56 python3 make_async_requests.py top_100_urls.csv
+ 1237  06/07/22 13:48:10 rm -rf async-requests/1657128*
+ 1238  06/07/22 13:48:16 rm -rf sync-requests/165712*
+ 1239  06/07/22 13:48:30 mv top_100_urls.csv 10_urls.csv
+ 1240  06/07/22 13:49:02 python3 make_async_requests.py 10_urls.csv
+ 1241  06/07/22 13:49:26 rm -rf async-requests/165712974*
+ 1242  06/07/22 13:49:31 python3 make_async_requests.py 10_urls.csv
+ 1243  06/07/22 13:50:34 python3 make_async_requests.py 10_urls.csv
+ 1244  06/07/22 13:51:59 python3 make_async_requests.py 10_urls.csv
+ 1245  06/07/22 13:55:05 python3 make_async_requests.py 10_urls.csv
+ 1246  06/07/22 13:57:36 python3 make_async_requests.py 10_urls.csv
+ 1247  06/07/22 13:57:59 rm -rf async-requests/165712974*
+ 1248  06/07/22 13:58:07 rm -rf sync-requests/16571*
+ 1249  06/07/22 13:58:10 rm -rf async-requests/1657129*
+ 1250  06/07/22 13:59:05 python3 make_async_requests.py 10_urls.csv
+ 1251  06/07/22 14:03:23 ls
+ 1252  06/07/22 14:03:27 cat make_
+ 1253  06/07/22 14:03:28 cat make_requests.py
+ 1254  06/07/22 14:03:46 rm -f make_requests.py
+ 1255  06/07/22 14:03:49 cat simple_async_test.py
+ 1256  06/07/22 14:03:57 rm -f simple_async_test.py
+ 1257  06/07/22 14:04:00 cat sync-requests/
+ 1258  06/07/22 14:04:02 ls
+ 1259  06/07/22 14:08:25 rm -rf sync-requests/
+ 1260  06/07/22 14:08:29 rm -rf async-requests/
+ 1261  06/07/22 14:15:15 python3 make_async_requests.py 10_urls.csv
+ 1262  06/07/22 14:17:21 rm -rf async-requests/
+ 1263  06/07/22 14:17:26 rm -rf sync-requests/
+ 1264  06/07/22 14:17:28 python3 make_async_requests.py 10_urls.csv
+ 1265  06/07/22 14:24:13 python3 make_async_requests.py 10_urls.csv
+ 1266  06/07/22 14:25:20 git diff
+ 1267  06/07/22 14:32:17 git dif
+ 1268  06/07/22 14:32:46 python3 make_async_requests.py 10_urls.csv
+ 1269  06/07/22 14:34:03 git diff
+ 1270  06/07/22 14:34:22 git init
+ 1271  06/07/22 14:34:48 git status
+ 1272  06/07/22 14:34:56 rm -rf async-requests/
+ 1273  06/07/22 14:35:02 rm -rf sync-requests/
+ 1274  06/07/22 14:35:08 git add .
+ 1275  06/07/22 14:40:19 git commit -m "tested making+saving sync vs async https get requests with python using urlopen, aiohttp, asyncio, os, time, base64, csv, and argparse packages"
+ 1276  06/07/22 14:40:24 git diff
+ 1277  06/07/22 14:40:33 git diff
+ 1278  06/07/22 14:41:38 git remote add origin git@github.com:sergeimellow/python_async_vs_sync_https_get_demo.git
+ 1279  06/07/22 14:41:46 git push origin master
+ 1280  06/07/22 15:58:33 vim README.md
+ 1281  06/07/22 15:59:14 git diff
+ 1282  06/07/22 15:59:17 git status
+ 1283  06/07/22 15:59:41 git diff
+ 1284  06/07/22 15:59:52 vim README.md
+ 1285  06/07/22 16:00:39 vim README.md
+ 1286  06/07/22 16:01:13 git add .
+ 1287  06/07/22 16:01:22 git commit -m "add a basic README.me"
+ 1288  06/07/22 16:01:26 git push origin master
+ 1289  06/07/22 16:02:32 vim README.md
+ 1290  06/07/22 16:02:53 git commit -am "indentation fix"
+ 1291  06/07/22 16:02:55 git push mas
+ 1292  06/07/22 16:02:58 git push origin master
+ 1293  06/07/22 16:03:36 vim README.md
+ 1294  06/07/22 16:04:22 git commit -am "add on more to the example"
+ 1295  06/07/22 16:04:23 git push origin master
+ 1296  06/07/22 16:05:02 vim README.md
+ 1297  06/07/22 16:05:21 git diff
+ 1298  06/07/22 16:05:33 git commit -am "a little extra formatting for example in README.md"
+ 1299  06/07/22 16:05:36 git push origin master
+ 1300  06/07/22 16:33:13 vim README.md
+ 1301  06/07/22 16:35:43 git diff
+ 1302  06/07/22 16:36:53 git diff
+ 1303  06/07/22 16:37:03 git commit -am "updating README.md and code comments"
+ 1304  06/07/22 16:37:06 git push origin master
+ 1305  06/07/22 16:57:38 python3 --version
+ 1306  06/07/22 17:00:29 pyenv veversions
+ 1307  06/07/22 17:00:33 pyenv versions
+ 1308  06/07/22 17:02:30 brew update
+ 1309  06/07/22 17:02:38 brew install pyenv
+ 1310  06/07/22 17:03:17 pyenv versions
+ 1311  06/07/22 17:03:48 pyenv install 3.10.5
+ 1312  06/07/22 17:06:50 python3 --version
+ 1313  06/07/22 17:06:52 python --version
+ 1314  06/07/22 17:18:13 python3 pip install pipreqs
+ 1315  06/07/22 17:18:38 python3 -m pip install pipreqs
+ 1316  06/07/22 17:19:27 pipreqs ~/work/async_python_requests/
+ 1317  06/07/22 17:19:30 python3 pipreqs ~/work/async_python_requests/
+ 1318  06/07/22 17:20:31 which python
+ 1319  06/07/22 17:20:45 python3 -m pipreqs ~/work/async_python_requests/
+ 1320  06/07/22 17:21:00 pip install pipreqs
+ 1321  06/07/22 17:23:04 pyenv versions
+ 1322  06/07/22 17:23:12 pyenv global 3.10.5
+ 1323  06/07/22 17:23:15 which python
+ 1324  06/07/22 17:23:19 python --version
+ 1325  06/07/22 17:23:22 python3 --version
+ 1326  06/07/22 17:23:28 whch python3
+ 1327  06/07/22 17:23:33 which python3
+ 1328  06/07/22 17:23:42 pyenv versions
+ 1329  06/07/22 17:23:49 python --version
+ 1330  06/07/22 17:23:52 python3 --version
+ 1331  06/07/22 17:24:00 pyenv use 3.10.5
+ 1332  06/07/22 17:24:10 source ~/.bash_profile
+ 1333  06/07/22 17:24:14 python3 --version
+ 1334  06/07/22 17:25:24 pyenv local 3.10.5
+ 1335  06/07/22 17:25:28 git diff
+ 1336  06/07/22 17:25:30 git status
+ 1337  06/07/22 17:25:37 vim .python-version
+ 1338  06/07/22 17:25:41 Python -V
+ 1339  06/07/22 17:25:44 python -V
+ 1340  06/07/22 17:25:45 cd .
+ 1341  06/07/22 17:25:46 cd ..
+ 1342  06/07/22 17:25:48 cd async_python_requests/
+ 1343  06/07/22 17:25:52 python3 --version
+ 1344  05/07/22 11:22:14 python3
+ 1345  06/07/22 17:27:00 cd ~/work/async_python_requests/
+ 1346  06/07/22 17:27:05 python3 --version
+ 1347  06/07/22 17:27:44 vim ~/.bash_profile
+ 1348  06/07/22 17:27:49 vim ~/.bash_profile
+ 1349  06/07/22 17:27:54 vim ~/.bashrc
+ 1350  06/07/22 17:28:23 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
+ 1351  06/07/22 17:28:24 echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+ 1352  06/07/22 17:28:31 echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n eval "$(pyenv init --path)"\nfi' >> ~/.bashrc
+ 1353  06/07/22 17:28:34 exec $SHELL
+ 1354  06/07/22 17:28:44 cd ..
+ 1355  06/07/22 17:28:46 cd async_python_requests/
+ 1356  06/07/22 17:28:55 which python3
+ 1357  06/07/22 17:29:03 python3 --version
+ 1358  06/07/22 17:29:09 vim ~/.bashrc
+ 1359  06/07/22 17:29:19 vim ~/.bash_profile
+ 1360  06/07/22 17:30:06 vim ~/.bash_profile
+ 1361  06/07/22 17:30:28 vim ~/.bash_profile
+ 1362  06/07/22 17:30:59 vim ~/.bash_profile
+ 1363  06/07/22 17:33:09 vim ~/.bash_profile
+ 1364  06/07/22 17:33:20 vim ~/.bashrc
+ 1365  06/07/22 17:33:39 vim ~/.bash_profile
+ 1366  06/07/22 17:34:16 source ~/.bashrc
+ 1367  06/07/22 17:34:20 ls
+ 1368  06/07/22 17:34:21 cd ..
+ 1369  06/07/22 17:34:24 cd async_python_requests/
+ 1370  06/07/22 17:34:25 ls
+ 1371  06/07/22 17:34:37 history
+ 1372  06/07/22 17:34:58 cd ..
+ 1373  06/07/22 17:34:58 ls
+ 1374  06/07/22 17:35:01 cd leet-code-solutions/
+ 1375  06/07/22 17:35:03 cd ..
+ 1376  06/07/22 17:35:20 pyenv list
+ 1377  06/07/22 17:35:25 pyenv versions
+ 1378  06/07/22 17:35:33 pyenv global system
+ 1379  06/07/22 17:35:34 pyenv versions
+ 1380  06/07/22 17:35:40 cd leet-code-solutions/
+ 1381  06/07/22 17:35:45 vim ~/.bash_profile
+ 1382  06/07/22 17:36:03 vim ~/.bashrc
+ 1383  06/07/22 17:36:18 source ~/.bashrc
+ 1384  06/07/22 17:36:23 source ~/.bash_profile
+ 1385  06/07/22 17:36:34 vim ~/.bash_profile
+ 1386  06/07/22 17:36:56 vim ~/.bash_profile
+ 1387  06/07/22 17:37:17 vim ~/.bash_profile
+ 1388  06/07/22 17:37:29 vim ~/.bashrc
+ 1389  06/07/22 17:37:37 cd ..
+ 1390  06/07/22 17:37:38 cd async_python_requests/
+ 1391  06/07/22 17:37:42 pythion --version
+ 1392  06/07/22 17:37:43 pythion3 --version
+ 1393  06/07/22 17:37:46 python3 --version
+ 1394  06/07/22 17:37:49 cd ..
+ 1395  06/07/22 17:37:55 vim ~/.bashre
+ 1396  06/07/22 17:37:57 vim ~/.bashrc
+ 1397  06/07/22 17:38:16 source ~/.bashrc
+ 1398  06/07/22 17:38:19 cd async_python_requests/
+ 1399  06/07/22 17:38:24 python3 --version
+ 1400  06/07/22 17:38:26 cd ..
+ 1401  06/07/22 17:38:27 python3 --version
+ 1402  06/07/22 17:38:36 cd async_python_requests/
+ 1403  06/07/22 17:38:39 vim .python-version
+ 1404  06/07/22 17:38:44 which pip
+ 1405  06/07/22 17:39:01 history
+ 1406  06/07/22 17:39:16 ls
+ 1407  06/07/22 17:39:22 which pthon
+ 1408  06/07/22 17:39:26 which python
+ 1409  06/07/22 17:39:30 pyenv list
+ 1410  06/07/22 17:39:37 pyenv versions
+ 1411  06/07/22 17:39:50 pyenv global 3.10.5
+ 1412  06/07/22 17:40:05 python3 --version
+ 1413  06/07/22 17:40:08 pip install pipreqs
+ 1414  06/07/22 17:40:35 /Users/sergeimellow/.pyenv/versions/3.10.5/bin/python3.10 -m pip install --upgrade pip
+ 1415  06/07/22 17:41:03 which pipreqs
+ 1416  06/07/22 17:41:16 pipreqs .
+ 1417  06/07/22 17:41:23 vim requirements.txt
+ 1418  06/07/22 17:41:26 git diff
+ 1419  06/07/22 17:41:28 git diff
+ 1420  06/07/22 17:41:35 git status
+ 1421  06/07/22 17:42:04 python3 make_async_requests.py 10_urls.csv
+ 1422  06/07/22 17:42:10 pip install
+ 1423  06/07/22 17:42:37 pip install -e .
+ 1424  06/07/22 17:46:34 pip install -r requirements.txt
+ 1425  06/07/22 17:47:00 git status
+ 1426  06/07/22 17:47:09 vim requirements.txt
+ 1427  06/07/22 17:47:24 python3 make_async_requests.py 10_urls.csv
+ 1428  06/07/22 17:47:44 rm -rf async-requests/
+ 1429  06/07/22 17:47:47 rm -rf sync-requests/
+ 1430  06/07/22 17:47:49 git status
+ 1431  06/07/22 17:47:50 git diff
+ 1432  06/07/22 17:49:59 history
+ 1433  06/07/22 17:50:07 history
+ 1434  06/07/22 17:55:09 cd ../async_python_requests/
+ 1435  06/07/22 17:55:10 git status
+ 1436  06/07/22 17:55:13 git status
+ 1437  06/07/22 17:55:20 exitt
+ 1438  06/07/22 17:55:23 exit
+ 1439  06/07/22 17:55:28 source ~/.bash_profile
+ 1440  06/07/22 17:55:30 source ~/.bashrc
+ 1441  06/07/22 17:55:42 cd ../async_python_requests/
+ 1442  06/07/22 17:55:43 git status
+ 1443  06/07/22 17:55:58 git add .
+ 1444  06/07/22 17:56:00 git status
+ 1445  06/07/22 17:56:29 git commit -m "like rvm+bundler+gems and nvm+npm+node-packages, I needed a pyenv+pip+packages, shoutout to 'pyenv local 3.10.5', 'pipreqs .', and 'pip install -r requirements.txt'"
+ 1446  06/07/22 17:56:34 git push origin master
+ 1447  06/07/22 18:31:46 git status
+ 1448  06/07/22 18:31:53 git diff
+ 1449  06/07/22 18:31:56 git status
+ 1450  06/07/22 18:32:01 git status
+ 1451  06/07/22 18:32:09 git status
+ 1452  06/07/22 18:32:18 cd ..
+ 1453  06/07/22 18:32:20 cd async_python_requests/
+ 1454  06/07/22 18:32:31 source ~/.bashrc
+ 1455  06/07/22 18:32:36 source ~/.bash_profile
+ 1456  06/07/22 18:32:47 history
+ 1457  06/07/22 18:32:54 history
+ 1458  06/07/22 18:33:24 ls
+ 1459  06/07/22 18:33:32 source ~/.bash_profile
+ 1460  06/07/22 18:33:36 vim ~/.bash_profile
+ 1461  06/07/22 18:33:49 source ~/.bash_profile
+ 1462  06/07/22 18:33:50 vim ~/.bash_profile
+ 1463  06/07/22 18:34:13 vim ~/.bashrc
+ 1464  06/07/22 18:34:22 source ~/.bash_profile
+ 1465  06/07/22 18:34:31 source ~/.bashrc
+ 1466  06/07/22 18:34:33 source ~/.bash_profile
+ 1467  06/07/22 18:34:35 vim ~/.bashrc
+ 1468  06/07/22 18:34:55 cd ..
+ 1469  06/07/22 18:34:58 git status
+ 1470  06/07/22 18:35:01 cd async_python_requests/
+ 1471  06/07/22 18:35:42 vim ~/.bash_profile
+ 1472  06/07/22 18:35:53 vim ~/.bash_profile
+ 1473  06/07/22 18:36:16 source ~/.bash_profile
+ 1474  06/07/22 18:36:24 vim ~/.bash_profile
+ 1475  06/07/22 18:37:05 git status
+ 1476  06/07/22 18:37:06 cd ..
+ 1477  06/07/22 18:37:08 cd python_koans/
+ 1478  06/07/22 18:37:12 vim ~/.bash_profile
+ 1479  06/07/22 18:37:36 source ~/.bash_profile
+ 1480  06/07/22 18:37:38 git status
+ 1481  06/07/22 18:37:40 git diff
+ 1482  06/07/22 18:37:43 cd ..
+ 1483  06/07/22 18:37:47 cd ~/work/async_python_requests/
+ 1484  06/07/22 18:37:54 git status
+ 1485  06/07/22 18:37:56 cd python_koans/
+ 1486  06/07/22 18:37:57 ls
+ 1487  06/07/22 18:37:59 cd ..
+ 1488  06/07/22 18:38:06 cd async_python_requests/
+ 1489  06/07/22 18:38:29 vim ~/.bash_profile
+ 1490  06/07/22 18:40:23 source ~/.bash_profile
+ 1491  06/07/22 18:40:25 cd ..
+ 1492  06/07/22 18:40:27 cd async_python_requests/
+ 1493  06/07/22 18:40:28 ls
+ 1494  06/07/22 18:40:40 git status
+ 1495  06/07/22 18:40:44 git diff
+ 1496  06/07/22 18:40:54 git status
+ 1497  06/07/22 18:40:57 git diff
+ 1498  06/07/22 18:41:06 source ~/.bash_profile
+ 1499  06/07/22 18:41:07 git status
+ 1500  06/07/22 18:41:08 git diff
+ 1501  06/07/22 18:41:19 vim ~/.bash_profile
+ 1502  06/07/22 18:42:04 source ~/.bash_profile
+ 1503  06/07/22 18:42:09 git status
+ 1504  06/07/22 18:42:11 git diff
+ 1505  06/07/22 18:42:16 vim ~/.bash_profile
+ 1506  06/07/22 18:42:33 source ~/.bash_profile
+ 1507  06/07/22 18:42:38 vim ~/.bash_profile
+ 1508  06/07/22 18:46:46 source ~/.bash_profile
+ 1509  06/07/22 18:46:49 vim ~/.bash_profile
+ 1510  06/07/22 18:48:56 git diff
+ 1511  06/07/22 18:49:00 git diff
+ 1512  06/07/22 18:49:05 git diff
+ 1513  06/07/22 18:49:06 git diff
+ 1514  06/07/22 18:49:08 git status
+ 1515  06/07/22 18:49:09 git diff
+ 1516  06/07/22 18:44:43 vim ~/bash_profile_not_fixed
+ 1517  06/07/22 18:49:32 vim ~/bash_profile_not_fixed
+ 1518  06/07/22 18:49:43 vim ~/.bash_profile
+ 1519  06/07/22 18:49:58 source ~/.bash_profile
+ 1520  06/07/22 18:50:00 git status
+ 1521  06/07/22 18:50:01 git diff
+ 1522  06/07/22 18:50:04 git diff
+ 1523  06/07/22 18:50:30 vim vim ~/.bash_profile
+ 1524  06/07/22 18:50:41 vim ~/.bash_profile
+ 1525  06/07/22 18:52:23 source ~/.bash_profile
+ 1526  06/07/22 18:52:25 source ~/.bash_profile
+ 1527  06/07/22 18:52:27 git diff
+ 1528  06/07/22 18:52:29 git status
+ 1529  06/07/22 18:52:33 source ~/.bash_profile
+ 1530  06/07/22 18:52:35 source ~/.bash_profile
+ 1531  06/07/22 18:52:39 vim ~/.bash_profile
+ 1532  06/07/22 18:52:59 source ~/.bash_profile
+ 1533  06/07/22 18:53:09 vim ~/.bash_profile
+ 1534  06/07/22 18:53:43 vim ~/bash_profile_not_fixed
+ 1535  06/07/22 18:53:53 vim ~/.bash_profile
+ 1536  06/07/22 18:54:10 vim ~/.bash_profile
+ 1537  06/07/22 18:54:44 clear
+ 1538  06/07/22 18:54:48 source ~/bash_profile_not_fixed
+ 1539  06/07/22 18:54:50 cd ..
+ 1540  06/07/22 18:55:35 $MONEY_PROMPT
+ 1541  06/07/22 18:55:43 $COLOR_OFF
+ 1542  06/07/22 18:55:53 cd
+ 1543  06/07/22 18:55:56 cd ~/work/async_python_requests/
+ 1544  06/07/22 18:55:07 vim ~/.bash_profile
+ 1545  06/07/22 18:56:26 source ~/.bash_profile
+ 1546  06/07/22 18:56:18 vim ~/.bash_profile
+ 1547  06/07/22 18:56:54 source ~/.bash_profile
+ 1548  06/07/22 18:57:18 source ~/.bash_profile
+ 1549  06/07/22 18:57:21 source ~/.bash_profile
+ 1550  06/07/22 18:57:23 source ~/.bash_profile
+ 1551  06/07/22 18:57:25 source ~/.bash_profile
+ 1552  06/07/22 18:57:48 source ~/.bash_profile
+ 1553  06/07/22 18:57:49 source ~/.bash_profile
+ 1554  06/07/22 18:57:50 source ~/.bash_profile
+ 1555  06/07/22 18:57:52 a
+ 1556  06/07/22 18:58:26 __git_ps1
+ 1557  06/07/22 18:58:40 %s
+ 1558  06/07/22 18:58:46 a
+ 1559  06/07/22 19:03:20 a
+ 1560  06/07/22 19:03:22 cd ..
+ 1561  06/07/22 19:03:22 a
+ 1562  06/07/22 19:03:29 cd async_python_requests/
+ 1563  06/07/22 19:03:40 vim ~/.bashrc
+ 1564  06/07/22 19:04:07 cd ..
+ 1565  06/07/22 19:04:15 cd async_python_requests/
+ 1566  06/07/22 19:04:31 source ~/.bashrc
+ 1567  06/07/22 19:04:33 cd ..
+ 1568  06/07/22 19:04:34 cd async_python_requests/
+ 1569  06/07/22 19:04:39 pyenv --version
+ 1570  06/07/22 19:04:45 cd ..
+ 1571  06/07/22 19:04:46 pyenv --version
+ 1572  06/07/22 19:04:48 cd async_python_requests/
+ 1573  06/07/22 18:56:52 vim ~/.bash_profile
+ 1574  06/07/22 19:05:05 (__git_ps1
+ 1575  06/07/22 19:05:08 __git_ps1
+ 1576  06/07/22 19:05:16 a
+ 1577  06/07/22 18:33:06 vim ~/bash_profile_not_fixed
+ 1578  06/07/22 19:05:38 vim ~/.bash_profile
+ 1579  06/07/22 19:06:19 vim ~/bash_profile_not_fixed
+ 1580  06/07/22 19:12:25 __git_ps1
+ 1581  06/07/22 19:12:52 abc.txt << __git_ps1
+ 1582  06/07/22 19:12:55 abc.txt < __git_ps1
+ 1583  06/07/22 19:13:08 __git_ps1
+ 1584  06/07/22 19:13:14 a
+ 1585  06/07/22 19:18:27 (__git_ps1
+ 1586  06/07/22 19:18:36 __git_ps1
+ 1587  06/07/22 19:19:49 __git_ps1 '%s'
+ 1588  06/07/22 19:26:24 REDACTED
+ 1589  06/07/22 19:26:30 REDACTED
+ 1590  06/07/22 19:26:46 REDACTED
+ 1591  06/07/22 19:29:10 which bash
+ 1592  06/07/22 19:29:32 __git_ps1
+ 1593  06/07/22 19:31:02 a
+ 1594  06/07/22 19:31:39 which __git_ps1
+ 1595  06/07/22 19:31:47 __git_ps1
+ 1596  06/07/22 21:55:36 vim ~/.bash_profile
+ 1597  06/07/22 19:10:31 vim ~/.bash_profile
+ 1598  06/07/22 21:56:38 vim ~/.bash_profile
+ 1599  06/07/22 21:55:45 vim ~/bash_profile_not_fixed
+ 1600  06/07/22 21:58:06 cd ~/work/async_python_requests/
+ 1601  06/07/22 21:58:08 git status
+ 1602  06/07/22 21:58:10 git diff
+ 1603  06/07/22 21:58:18 cd ~/work/async_python_requests/
+ 1604  06/07/22 21:58:20 git status
+ 1605  06/07/22 21:58:21 git diff
+ 1606  06/07/22 22:00:12 cd ..
+ 1607  06/07/22 22:00:17 cd dot_files/
+ 1608  06/07/22 22:00:19 lb
+ 1609  06/07/22 22:00:23 history
+ 1610  06/07/22 22:00:26 lb
+ 1611  06/07/22 22:00:27 git log
+ 1612  06/07/22 22:00:34 vim ~/.bash_profile
+ 1613  06/07/22 22:01:41 cp ~/.bash_profile .bash_profile_mac
+ 1614  06/07/22 22:01:49 vim ~/.bash_profile
+ 1615  06/07/22 22:02:09 vim ~/.bashrc
+ 1616  06/07/22 22:02:23 ls
+ 1617  06/07/22 22:02:32 vim ~/.bashrc
+ 1618  06/07/22 22:02:44 which rvm
+ 1619  06/07/22 22:02:45 rvm
+ 1620  06/07/22 22:03:06 brew install rvm
+ 1621  06/07/22 22:03:39 gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1622  06/07/22 22:04:05 brew install gnupg
+ 1623  06/07/22 22:05:10 gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1624  06/07/22 22:05:31 \curl -sSL https://get.rvm.io | bash -s stable --ruby
+ 1625  06/07/22 22:05:45 gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1626  06/07/22 22:06:13 curl -sSL https://rvm.io/mpapis.asc | gpg --import -
+ 1627  06/07/22 22:06:17 \curl -sSL https://get.rvm.io | bash -s stable --ruby
+ 1628  06/07/22 22:06:31 gpg --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1629  06/07/22 22:06:48 \curl -sSL https://get.rvm.io | bash -s stable --ruby
+ 1630  06/07/22 22:10:51 source /Users/sergeimellow/.rvm/scripts/rvm
+ 1631  06/07/22 22:10:53 rvm list
+ 1632  06/07/22 22:11:04 rvm list
+ 1633  06/07/22 22:11:07 rvm list rubies
+ 1634  06/07/22 22:11:54 rvm list --all
+ 1635  06/07/22 22:11:56 rvm list -all
+ 1636  06/07/22 22:12:07 rvm list --all
+ 1637  06/07/22 22:12:31 rvm strings
+ 1638  06/07/22 22:12:36 rvm list --all strings
+ 1639  06/07/22 22:12:46 rvm list strings
+ 1640  06/07/22 22:13:11 rvm list known
+ 1641  06/07/22 22:15:38 rvm install 3.1.2
+ 1642  06/07/22 22:37:47 git status
+ 1643  06/07/22 22:37:55 vim ~/.bash_profile
+ 1644  06/07/22 22:38:03 rm .bash_profile_mac
+ 1645  06/07/22 22:38:16 cp ~/.bash_profile .bash_profile_mac
+ 1646  06/07/22 22:38:23 vim ~/.bashrc
+ 1647  06/07/22 22:38:44 cp ~/.bashrc .bashrc_mac
+ 1648  06/07/22 22:38:46 git status
+ 1649  06/07/22 22:39:22 ls -alrt
+ 1650  06/07/22 22:39:49 ls ~/ -alrt
+ 1651  06/07/22 22:39:57 ls -alrt ~/
+ 1652  06/07/22 22:40:44 vim ~/.zshrc
+ 1653  06/07/22 22:40:54 vim ~/.zsh_history
+ 1654  06/07/22 22:41:16 vim ~/.pyenv/
+ 1655  06/07/22 22:41:24 vim ~/.pyenv/version
+ 1656  06/07/22 22:41:40 ls alrt ~/Downloads/
+ 1657  06/07/22 22:41:47 git status
+ 1658  06/07/22 22:41:49 git add .
+ 1659  06/07/22 22:42:06 git commit -m "in case my mac explodes"
+ 1660  06/07/22 22:42:12 git push origin master
+ 1661  07/07/22 11:25:03 cd ..
+ 1662  07/07/22 11:25:07 vim making-the-requests.js
+ 1663  07/07/22 11:26:33 cat making-the-requests.js
+ 1664  08/07/22 13:42:42 python3
+ 1665  08/07/22 14:15:43 brew install docker
+ 1666  08/07/22 14:16:13 docker ps
+ 1667  08/07/22 14:18:06 docker
+ 1668  08/07/22 14:18:09 docker --version
+ 1669  08/07/22 14:18:20 docker ps
+ 1670  08/07/22 14:18:41 docker restart
+ 1671  08/07/22 14:18:54 docker images
+ 1672  08/07/22 14:18:59 which docker
+ 1673  08/07/22 14:19:13 docker start
+ 1674  08/07/22 14:20:20 brew install awscli
+ 1675  08/07/22 14:21:25 brew tap aws/tap
+ 1676  08/07/22 14:21:34 brew install aws-sam-cli
+ 1677  08/07/22 14:22:05 sam --version
+ 1678  08/07/22 14:22:20 which aws
+ 1679  08/07/22 14:23:00 aws s3 ls
+ 1680  08/07/22 14:23:11 aws configure
+ 1681  08/07/22 14:28:42 aws s3 ls
+ 1682  08/07/22 14:29:10 aws s3 ls
+ 1683  08/07/22 14:29:39 aws s3 ls
+ 1684  08/07/22 14:30:28 aws s3 ls
+ 1685  08/07/22 14:43:35 REDACTED
+ 1686  08/07/22 14:43:38 subl sam-app/
+ 1687  08/07/22 15:53:00 cd sam-app/
+ 1688  08/07/22 15:53:05 rm events/event.json
+ 1689  08/07/22 15:53:44 rm -rf events/
+ 1690  08/07/22 15:53:49 ls -alrt
+ 1691  08/07/22 15:53:52 vim __init__.py
+ 1692  08/07/22 15:53:55 vim README.md
+ 1693  08/07/22 15:53:57 rm README.md
+ 1694  08/07/22 15:54:01 ls
+ 1695  08/07/22 15:54:03 vim hello_world/
+ 1696  08/07/22 15:54:10 vim hello_world/__init__.py
+ 1697  08/07/22 15:54:15 vim hello_world/app.py
+ 1698  08/07/22 15:56:54 sals
+ 1699  08/07/22 15:56:55 ls
+ 1700  08/07/22 15:57:03 vim template.yaml
+ 1701  08/07/22 15:57:49 ls
+ 1702  08/07/22 15:57:52 ls hello_world/
+ 1703  08/07/22 15:57:56 sam build
+ 1704  08/07/22 16:01:37 python --version
+ 1705  08/07/22 16:01:40 python3 --version
+ 1706  08/07/22 16:02:04 which python
+ 1707  08/07/22 16:02:07 which python
+ 1708  08/07/22 16:02:07 which python3
+ 1709  08/07/22 16:02:13 python3 --version
+ 1710  08/07/22 16:02:40 pyenv versions
+ 1711  08/07/22 16:03:12 pyenv list
+ 1712  08/07/22 16:03:13 pyenv lists
+ 1713  08/07/22 16:03:43 pyenv install -l
+ 1714  08/07/22 16:04:12 pyenv install 3.9.13
+ 1715  08/07/22 16:06:31 cd ..
+ 1716  08/07/22 16:06:39 mkdir sam-test-api
+ 1717  08/07/22 16:06:45 cd sam-test-api/
+ 1718  08/07/22 16:06:50 which sam
+ 1719  08/07/22 16:06:52 sam --version
+ 1720  08/07/22 16:07:00 sam init
+ 1721  08/07/22 16:08:42 ls
+ 1722  08/07/22 16:08:45 cd sam-app/
+ 1723  08/07/22 16:08:45 ls
+ 1724  08/07/22 16:08:50 cat README.md
+ 1725  08/07/22 16:08:52 ls
+ 1726  08/07/22 16:09:07 cat hello_world/app.py
+ 1727  08/07/22 16:09:47 subl .
+ 1728  08/07/22 16:11:15 git status
+ 1729  08/07/22 16:11:24 ls
+ 1730  08/07/22 16:11:29 ls tests/
+ 1731  08/07/22 16:11:48 subl .
+ 1732  08/07/22 16:11:59 cat .gitignore
+ 1733  08/07/22 16:12:21 sam build
+ 1734  08/07/22 16:12:32 pyenv global 3.9.13
+ 1735  08/07/22 16:12:42 vim ~/.bash_profile
+ 1736  08/07/22 16:13:08 source ~/.bash_profile
+ 1737  08/07/22 16:13:12 which python
+ 1738  08/07/22 16:13:20 python --version
+ 1739  08/07/22 16:13:33 pyenv list
+ 1740  08/07/22 16:13:35 pyenv versions
+ 1741  08/07/22 16:13:43 which python3
+ 1742  08/07/22 16:13:46 which python3 --version
+ 1743  08/07/22 16:13:50 python3 --version
+ 1744  08/07/22 16:14:35 vim .python-version
+ 1745  08/07/22 16:15:11 cp ~/work/async_python_requests/.python-version .python-version
+ 1746  08/07/22 16:15:18 vim .python-version
+ 1747  08/07/22 16:15:22 cd ..
+ 1748  08/07/22 16:15:23 cd sam-app/
+ 1749  08/07/22 16:15:26 python --version
+ 1750  08/07/22 16:15:29 python3 --version
+ 1751  08/07/22 16:15:38 pyenv use 3.9.13
+ 1752  08/07/22 16:15:45 cd ..
+ 1753  08/07/22 16:15:46 cdd sam-app/
+ 1754  08/07/22 16:15:49 python3 --version
+ 1755  08/07/22 16:15:55 python3 --version
+ 1756  08/07/22 16:16:06 vim ~/.bashrc
+ 1757  08/07/22 16:16:16 vim ~/.bash_profile
+ 1758  08/07/22 16:16:39 cd ~/work/async_python_requests/
+ 1759  08/07/22 16:16:42 python --version
+ 1760  08/07/22 16:16:52 source ~/.bashrc
+ 1761  08/07/22 16:16:58 vim ~/.bash_profile
+ 1762  08/07/22 16:17:02 source ~/.bashrc
+ 1763  08/07/22 16:17:07 vim ~/.bashrc
+ 1764  08/07/22 16:17:16 vim ~/.bashrc
+ 1765  08/07/22 16:17:32 vim ~/.bashrc
+ 1766  08/07/22 16:17:39 source ~/.bashrc
+ 1767  08/07/22 16:17:41 vim ~/.bashrc
+ 1768  08/07/22 16:20:38 echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n eval "$(pyenv init -)"\nfi' >> ~/.bashrc
+ 1769  08/07/22 16:20:42 vim ~/.bashrc
+ 1770  08/07/22 16:20:52 source ~/.bashrc
+ 1771  08/07/22 16:20:55 vim ~/.bashrc
+ 1772  08/07/22 16:21:18 python3 --version
+ 1773  08/07/22 16:21:20 python --version
+ 1774  08/07/22 16:21:23 cd ..
+ 1775  08/07/22 16:21:28 cd sam-test-api/
+ 1776  08/07/22 16:21:28 ls
+ 1777  08/07/22 16:21:30 cd sam-app/
+ 1778  08/07/22 16:21:33 python --version
+ 1779  08/07/22 16:21:36 sam build
+ 1780  08/07/22 16:22:00 sam validate
+ 1781  08/07/22 16:22:13 subl .
+ 1782  08/07/22 16:22:33 sam local invoke
+ 1783  08/07/22 16:23:02 docker
+ 1784  08/07/22 16:23:15 docker info
+ 1785  08/07/22 16:23:44 brew install --cask docker
+ 1786  08/07/22 16:27:08 docker ps
+ 1787  08/07/22 16:28:38 brew reinstall --cask docker
+ 1788  08/07/22 16:31:31 brew remove docker
+ 1789  08/07/22 16:31:40 brew install --cask docker
+ 1790  08/07/22 16:35:10 docker ps
+ 1791  08/07/22 16:35:18 sam local invoke
+ 1792  08/07/22 16:37:22 sam deploy --guided
+ 1793  08/07/22 16:43:37 git status
+ 1794  08/07/22 16:43:42 ls
+ 1795  08/07/22 16:43:49 vim README.md
+ 1796  08/07/22 16:43:55 vim __init__.py
+ 1797  08/07/22 16:44:13 cat hello_world/app.py
+ 1798  08/07/22 16:45:18 git init
+ 1799  08/07/22 16:45:23 git status
+ 1800  08/07/22 16:45:29 git add README.md
+ 1801  08/07/22 16:46:46 vim template.yaml
+ 1802  08/07/22 16:47:11 git add template.yaml
+ 1803  08/07/22 16:47:59 git add hello_world/
+ 1804  08/07/22 16:48:04 git status
+ 1805  08/07/22 16:48:29 git add tests/
+ 1806  08/07/22 16:49:22 docker ps
+ 1807  08/07/22 16:49:44 git status
+ 1808  08/07/22 16:50:04 git reset tests/
+ 1809  08/07/22 16:50:06 git status
+ 1810  08/07/22 16:54:15 vim template.yaml
+ 1811  08/07/22 16:56:22 open .
+ 1812  08/07/22 16:56:46 mv download.png successful-creation.png
+ 1813  08/07/22 16:57:52 vim outputs_from_first_deploy.txt
+ 1814  08/07/22 16:59:49 vim private-success.txt
+ 1815  08/07/22 17:00:00 git status
+ 1816  08/07/22 17:00:16 git reset README.md
+ 1817  08/07/22 17:00:30 git status
+ 1818  08/07/22 17:00:33 vim template.yaml
+ 1819  08/07/22 17:01:55 python3
+ 1820  08/07/22 17:00:55 vim hello_world/app.py
+ 1821  08/07/22 17:04:18 git status
+ 1822  08/07/22 17:04:28 git add hello_world/app.py
+ 1823  08/07/22 17:04:43 open successful-creation.png
+ 1824  08/07/22 17:06:50 mv download.png successful-deploy.png
+ 1825  08/07/22 17:06:57 git add successful-deploy.png
+ 1826  08/07/22 17:07:09 git add successful-creation.png
+ 1827  08/07/22 17:07:12 git status
+ 1828  08/07/22 17:08:18 git commit -m "deployed python lambda function behind an AWS API gateway end-point deployed with SAM"
+ 1829  08/07/22 17:08:42 git remote add origin git@github.com:sergeimellow/receiving_serverless_messages.git
+ 1830  08/07/22 17:09:32 git push origin master
+ 1831  08/07/22 18:05:40 sam local invoke
+ 1832  08/07/22 18:06:16 python
+ 1833  08/07/22 18:07:10 sam build
+ 1834  08/07/22 18:07:28 sam local invoke
+ 1835  08/07/22 18:08:58 subl ~/work/sam-app/
+ 1836  08/07/22 18:11:59 sam build
+ 1837  08/07/22 18:12:04 sam local invoke
+ 1838  08/07/22 18:19:24 sam build
+ 1839  08/07/22 18:19:29 sam local invoke
+ 1840  08/07/22 18:24:02 sam build
+ 1841  08/07/22 18:24:06 sam local invoke
+ 1842  08/07/22 18:24:49 sam deploy --guided
+ 1843  08/07/22 18:30:07 sam build
+ 1844  08/07/22 18:30:14 sam local invoke
+ 1845  08/07/22 18:32:28 sam build
+ 1846  08/07/22 18:32:34 sam local invoke
+ 1847  08/07/22 17:13:40 python3
+ 1848  08/07/22 23:37:21 cd sam-app/
+ 1849  08/07/22 23:37:37 mv download.png serverless_db.png
+ 1850  08/07/22 23:38:22 mv download.png serverless_https_get_response
+ 1851  08/07/22 23:38:25 git status
+ 1852  08/07/22 23:38:35 git add serverless_db.png
+ 1853  08/07/22 23:38:52 mv serverless_https_get_response.png
+ 1854  08/07/22 23:39:00 mv serverless_https_get_response serverless_https_get_response.png
+ 1855  08/07/22 23:39:19 git add serverless_https_get_response.png
+ 1856  08/07/22 23:39:41 git diff
+ 1857  08/07/22 23:41:09 git diff
+ 1858  08/07/22 23:41:15 git diff
+ 1859  08/07/22 23:41:50 git add hello_world/app.py
+ 1860  08/07/22 23:41:52 git status
+ 1861  08/07/22 23:43:23 cd ../sam-test-api/sam-app/
+ 1862  08/07/22 23:43:29 README.md
+ 1863  08/07/22 23:43:32 vim README.md
+ 1864  08/07/22 23:49:26 git add README.md
+ 1865  08/07/22 23:49:32 git status
+ 1866  08/07/22 23:49:40 git add hello_world/app.py
+ 1867  08/07/22 23:50:24 git commit -m "serverless endpoint and db write via AWS API Gateway, Lambda, and dynamoDB"
+ 1868  08/07/22 23:50:34 git push origin master
+ 1869  09/07/22 00:21:37 history
