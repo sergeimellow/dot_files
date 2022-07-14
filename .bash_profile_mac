@@ -81,7 +81,7 @@ alias lr="ls -lR"          # recursive ls
 alias g="git"              # faster git!
 alias lf='sudo du -sch .[!.]* * |sort -h'
 alias ports='lsof -i'
-
+alias python='python3'
 
 # List all branches in order
  function lb() {
@@ -101,3 +101,5 @@ export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND$'\n'}history -a;history
 export LSCOLORS="gafxcxdxbxegedabagacad"
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+source ~/.bashrc

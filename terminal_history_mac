@@ -1867,3 +1867,674 @@
  1867  08/07/22 23:50:24 git commit -m "serverless endpoint and db write via AWS API Gateway, Lambda, and dynamoDB"
  1868  08/07/22 23:50:34 git push origin master
  1869  09/07/22 00:21:37 history
+ 1870  09/07/22 00:35:29 cp ~/.bash_history ~/work/dot_files/.bash_history_mac
+ 1871  09/07/22 00:35:33 cd ~/work/dot_files/
+ 1872  09/07/22 00:35:34 ls
+ 1873  09/07/22 00:35:38 vim .bash_history_mac
+ 1874  09/07/22 00:36:11 subl .bash_history_mac
+ 1875  09/07/22 00:37:25 cp .bash_history_mac terminal_history_mac
+ 1876  09/07/22 00:37:30 git diff
+ 1877  09/07/22 00:37:35 git status
+ 1878  09/07/22 00:37:43 rm .bash_history_mac
+ 1879  09/07/22 00:37:47 vim terminal_history_mac
+ 1880  09/07/22 00:37:54 vim terminal_history_mac
+ 1881  09/07/22 00:38:18 subl terminal_history_mac
+ 1882  09/07/22 00:38:29 git status
+ 1883  09/07/22 00:38:39 git add terminal_history_mac
+ 1884  09/07/22 00:40:19 git commit -m "track my terminal command history for fun"
+ 1885  09/07/22 00:40:23 git push origin master
+ 1886  11/07/22 11:06:56 htop
+ 1887  11/07/22 11:07:14 kill -9 9405
+ 1888  11/07/22 11:52:46 curl -X GET https://REDACTED.execute-api.us-east-1.amazonaws.com/Prod/hello?message=the-super-top-secret-message
+ 1889  11/07/22 12:19:01 cd ../leet-code-solutions/
+ 1890  11/07/22 12:19:01 ls
+ 1891  11/07/22 12:19:07 vim 0011.py
+ 1892  11/07/22 12:19:21 subl .
+ 1893  11/07/22 12:22:58 python
+ 1894  11/07/22 12:26:29 python3 0011.py
+ 1895  11/07/22 12:26:38 python3 0011.py
+ 1896  11/07/22 12:26:42 python3 0011.py
+ 1897  11/07/22 12:26:51 python3 0011.py 11
+ 1898  11/07/22 12:27:19 python3 0011.py 11
+ 1899  11/07/22 15:30:14 vim ~/Downloads/REDACTED.txt
+ 1900  11/07/22 16:56:41 python3 0011.py
+ 1901  11/07/22 16:56:49 python3 0011.py
+ 1902  11/07/22 17:07:00 python3 0011.py
+ 1903  11/07/22 17:11:36 python3 0011.py
+ 1904  11/07/22 17:23:01 python3 0011.py
+ 1905  11/07/22 17:23:10 python3 0011.py
+ 1906  11/07/22 17:23:45 python3 0011.py
+ 1907  11/07/22 17:23:48 python3 0011.py
+ 1908  11/07/22 17:24:03 python3 0011.py
+ 1909  11/07/22 17:24:23 python3 0011.py
+ 1910  11/07/22 17:24:36 python3 0011.py
+ 1911  11/07/22 17:24:41 python3 0011.py
+ 1912  11/07/22 17:24:49 python3 0011.py
+ 1913  11/07/22 17:30:59 python3 0011.py
+ 1914  11/07/22 17:31:28 python3 0011.py
+ 1915  11/07/22 17:31:43 python3 0011.py
+ 1916  11/07/22 17:32:04 python3 0011.py
+ 1917  11/07/22 17:35:09 python3 0011.py
+ 1918  11/07/22 17:35:23 python3 0011.py
+ 1919  11/07/22 17:35:28 python3 0011.py
+ 1920  11/07/22 17:45:36 mv 0011.py 0011-local-dev.py
+ 1921  11/07/22 17:46:21 mv 0011-local-dev.py 0012-local-dev.py
+ 1922  11/07/22 18:05:39 ls
+ 1923  11/07/22 18:05:40 cd ..
+ 1924  11/07/22 18:05:41 ls
+ 1925  11/07/22 18:06:26 git clone git@github.com:sergeimellow/project-euler-solutions.git
+ 1926  11/07/22 18:06:32 cd project-euler-solutions/
+ 1927  11/07/22 18:06:34 ls
+ 1928  11/07/22 18:06:37 node 1.js
+ 1929  11/07/22 18:06:42 which node
+ 1930  11/07/22 18:06:45 which nvm
+ 1931  11/07/22 18:06:56 which nvm
+ 1932  11/07/22 18:07:01 node
+ 1933  11/07/22 18:07:07 vim ~/.bash_profile
+ 1934  11/07/22 18:07:27 vim ~/.bashrc
+ 1935  11/07/22 18:07:47 which node
+ 1936  11/07/22 18:07:48 node
+ 1937  11/07/22 18:07:55 vim ~/.bashrc
+ 1938  11/07/22 18:08:10 cat ~/.nvm/nvm
+ 1939  11/07/22 18:08:15 cat ~/.nvm/nvm.sh
+ 1940  11/07/22 12:23:02 python3
+ 1941  11/07/22 18:08:37 exit
+ 1942  11/07/22 18:08:41 exit
+ 1943  11/07/22 18:08:42 exit
+ 1944  11/07/22 18:08:50 which nvm
+ 1945  11/07/22 18:09:00 source ~/.bashrc
+ 1946  11/07/22 18:09:02 which nvm
+ 1947  11/07/22 18:09:06 source ~/.bash_profile
+ 1948  11/07/22 18:09:07 which nvm
+ 1949  11/07/22 18:09:38 which npm
+ 1950  11/07/22 18:09:44 which node
+ 1951  11/07/22 18:09:53 node --version
+ 1952  11/07/22 18:09:57 nvm --verson
+ 1953  11/07/22 18:09:59 nvm list
+ 1954  11/07/22 18:10:05 cd ~/work/project-euler-solutions/
+ 1955  11/07/22 18:10:06 ls
+ 1956  11/07/22 18:10:08 node 1.js
+ 1957  11/07/22 18:10:18 python --version
+ 1958  11/07/22 18:10:21 pyenv version s
+ 1959  11/07/22 18:10:23 pyenv versions
+ 1960  11/07/22 18:10:27 rvm versions
+ 1961  11/07/22 18:10:30 rvm list
+ 1962  11/07/22 18:10:47 rvm use 3.1.2
+ 1963  11/07/22 18:10:48 rvm list
+ 1964  11/07/22 18:10:57 rvm default 3.1.2
+ 1965  11/07/22 18:11:00 rvm list
+ 1966  11/07/22 18:11:27 rvm default use 3.1.2
+ 1967  11/07/22 18:11:29 rvm list
+ 1968  11/07/22 18:12:00 rvm --default use 3.1.2
+ 1969  11/07/22 18:12:02 rvm list
+ 1970  11/07/22 18:12:46 node 2.js
+ 1971  11/07/22 18:12:53 subl .
+ 1972  11/07/22 18:13:00 node 2.js
+ 1973  11/07/22 18:14:17 node 2.js
+ 1974  11/07/22 18:14:19 node 2.js
+ 1975  11/07/22 18:14:30 node 2.js
+ 1976  11/07/22 18:14:53 node 3.js
+ 1977  11/07/22 18:17:50 node 2.js
+ 1978  11/07/22 18:24:48 node 3.js
+ 1979  11/07/22 18:24:54 node 3.js
+ 1980  11/07/22 18:25:15 node 3.js
+ 1981  11/07/22 18:25:20 node 3.js
+ 1982  11/07/22 18:25:25 node 3.js
+ 1983  11/07/22 18:25:49 ls
+ 1984  11/07/22 18:25:54 node 4.js
+ 1985  11/07/22 18:27:54 node 4.js
+ 1986  11/07/22 18:28:25 node 5.js
+ 1987  11/07/22 18:30:36 node 5.js
+ 1988  11/07/22 18:30:44 node 5.js
+ 1989  11/07/22 18:30:51 git status
+ 1990  11/07/22 18:30:55 git diff
+ 1991  11/07/22 18:31:20 git commit -am "some updates to logging and my old solutions from 2016"
+ 1992  11/07/22 18:31:22 git push origin master
+ 1993  11/07/22 22:40:37 git diff
+ 1994  11/07/22 22:40:45 git commit -m "just nuuking whitespace"
+ 1995  11/07/22 22:40:49 git commit -am "just nuuking whitespace"
+ 1996  11/07/22 22:40:51 git push origin master
+ 1997  11/07/22 22:48:15 cd ../leet-code-solutions/
+ 1998  11/07/22 22:48:16 git status
+ 1999  11/07/22 22:48:18 git add .
+ 2000  11/07/22 22:48:30 git commit -m "just 0012.py solutions"
+ 2001  11/07/22 22:48:33 git push origin master
+ 2002  12/07/22 00:33:15 python 0013.py
+ 2003  12/07/22 00:33:37 python 0013.py
+ 2004  12/07/22 00:33:46 python 0013.py
+ 2005  12/07/22 00:33:58 python 0013.py
+ 2006  12/07/22 00:34:03 python 0013.py
+ 2007  12/07/22 00:34:30 python 0013.py
+ 2008  12/07/22 00:41:38 git diff
+ 2009  12/07/22 00:41:45 git status
+ 2010  12/07/22 00:42:44 git add .
+ 2011  12/07/22 00:42:52 git commit -m "problem 13 solved with python"
+ 2012  12/07/22 00:42:54 git push origin master
+ 2013  12/07/22 10:53:12 python 0014.py
+ 2014  12/07/22 11:20:48 python 0014.py
+ 2015  12/07/22 11:21:04 python 0014.py
+ 2016  12/07/22 11:22:15 python 0014.py
+ 2017  12/07/22 11:22:37 python 0014.py
+ 2018  12/07/22 11:23:05 python 0014.py
+ 2019  12/07/22 11:23:11 python 0014.py
+ 2020  12/07/22 11:23:16 python 0014.py
+ 2021  12/07/22 11:23:26 python 0014.py
+ 2022  12/07/22 11:23:48 python 0014.py
+ 2023  12/07/22 11:24:01 python 0014.py
+ 2024  12/07/22 11:24:06 python 0014.py
+ 2025  12/07/22 11:24:12 python 0014.py
+ 2026  12/07/22 11:24:44 python 0014.py
+ 2027  12/07/22 11:25:18 python 0014.py
+ 2028  12/07/22 11:25:33 python 0014.py
+ 2029  12/07/22 11:25:41 python 0014.py
+ 2030  12/07/22 11:25:43 python 0014.py
+ 2031  12/07/22 11:25:58 python 0014.py
+ 2032  12/07/22 11:26:16 python 0014.py
+ 2033  12/07/22 11:26:20 python 0014.py
+ 2034  12/07/22 11:26:31 python 0014.py
+ 2035  12/07/22 11:26:32 python 0014.py
+ 2036  12/07/22 11:26:41 python 0014.py
+ 2037  12/07/22 11:27:02 python 0014.py
+ 2038  12/07/22 11:27:20 python 0014.py
+ 2039  12/07/22 11:27:34 python 0014.py
+ 2040  12/07/22 11:34:55 python 0014.py
+ 2041  12/07/22 11:35:24 python 0014.py
+ 2042  12/07/22 11:35:28 python 0014.py
+ 2043  12/07/22 11:35:35 python 0014.py
+ 2044  12/07/22 11:40:54 python 0014.py
+ 2045  12/07/22 11:40:59 python 0014.py
+ 2046  12/07/22 11:45:56 python 0014.py
+ 2047  12/07/22 11:46:09 python 0014.py
+ 2048  12/07/22 11:46:13 python 0014.py
+ 2049  12/07/22 11:46:26 python 0014.py
+ 2050  12/07/22 11:46:43 python 0014.py
+ 2051  12/07/22 11:48:13 python 0014.py
+ 2052  12/07/22 11:48:34 python 0014.py
+ 2053  12/07/22 11:48:44 python 0014.py
+ 2054  12/07/22 11:50:17 python 0014.py
+ 2055  12/07/22 12:06:12 python 0015.py
+ 2056  12/07/22 12:06:19 python 0015.py
+ 2057  12/07/22 12:26:36 python 0015.py
+ 2058  12/07/22 12:27:07 python 0015.py
+ 2059  12/07/22 12:27:18 python 0015.py
+ 2060  12/07/22 12:28:35 python 0015.py
+ 2061  12/07/22 12:28:36 python 0015.py
+ 2062  12/07/22 12:28:55 python 0015.py
+ 2063  12/07/22 12:29:04 python 0015.py
+ 2064  12/07/22 12:29:25 python 0015.py
+ 2065  12/07/22 12:36:32 python 0015.py
+ 2066  12/07/22 12:36:37 python 0015.py
+ 2067  12/07/22 12:37:14 python 0015.py
+ 2068  12/07/22 12:46:50 python 0015.py
+ 2069  12/07/22 12:46:54 python 0015.py
+ 2070  12/07/22 12:48:17 python 0015.py
+ 2071  12/07/22 12:48:27 python 0015.py
+ 2072  12/07/22 12:49:17 python 0015.py
+ 2073  12/07/22 12:51:20 python 0015.py
+ 2074  12/07/22 12:52:29 python 0015.py
+ 2075  12/07/22 12:52:45 python 0015.py
+ 2076  12/07/22 12:52:57 python 0015.py
+ 2077  12/07/22 12:53:51 python 0015.py
+ 2078  12/07/22 12:54:43 python 0015.py
+ 2079  12/07/22 12:55:02 python 0015.py
+ 2080  12/07/22 12:55:56 python 0015.py
+ 2081  12/07/22 12:57:21 python 0015.py
+ 2082  12/07/22 12:59:25 python 0015.py
+ 2083  12/07/22 13:00:27 python 0015.py
+ 2084  12/07/22 13:00:49 python 0015.py
+ 2085  12/07/22 13:01:21 python 0015.py
+ 2086  12/07/22 13:01:30 python 0015.py
+ 2087  12/07/22 13:01:45 python 0015.py
+ 2088  12/07/22 13:03:50 python 0015.py
+ 2089  12/07/22 13:03:56 python 0015.py
+ 2090  12/07/22 13:04:19 python 0015.py
+ 2091  12/07/22 13:05:49 python 0015.py
+ 2092  12/07/22 13:06:00 python 0015.py
+ 2093  12/07/22 13:06:04 python 0015.py
+ 2094  12/07/22 13:07:28 python 0015.py
+ 2095  12/07/22 13:08:14 python 0015.py
+ 2096  12/07/22 13:11:35 python 0015.py
+ 2097  12/07/22 13:12:14 python 0015.py
+ 2098  12/07/22 13:14:05 python 0015.py
+ 2099  12/07/22 13:18:27 python 0015.py
+ 2100  12/07/22 13:18:35 python 0015.py
+ 2101  12/07/22 13:20:12 python 0015.py
+ 2102  12/07/22 13:20:15 python 0015.py
+ 2103  12/07/22 13:22:31 python 0015.py
+ 2104  12/07/22 13:22:32 python 0015.py
+ 2105  12/07/22 13:22:50 python 0015.py
+ 2106  12/07/22 13:29:09 a = set()
+ 2107  12/07/22 13:34:34 python 0015.py
+ 2108  12/07/22 13:35:32 python 0015.py
+ 2109  12/07/22 13:35:42 python 0015.py
+ 2110  12/07/22 13:36:01 python 0015.py
+ 2111  12/07/22 13:37:42 python 0015.py
+ 2112  12/07/22 13:37:44 python 0015.py
+ 2113  12/07/22 13:37:57 [A
+ 2114  12/07/22 13:38:01 python 0015.py
+ 2115  12/07/22 13:39:07 python 0015.py
+ 2116  12/07/22 13:39:44 python 0015.py
+ 2117  12/07/22 13:40:20 python 0015.py
+ 2118  12/07/22 13:40:34 python 0015.py
+ 2119  12/07/22 13:47:05 python 0015.py
+ 2120  12/07/22 13:48:21 subl ~/work/python_koans/
+ 2121  12/07/22 14:11:03 subl ~/work/python_koans/
+ 2122  12/07/22 14:11:07 python 0015.py
+ 2123  12/07/22 14:12:21 python 0015.py
+ 2124  12/07/22 14:12:30 python 0015.py
+ 2125  12/07/22 14:12:32 python 0015.py
+ 2126  12/07/22 14:12:37 python 0015.py
+ 2127  12/07/22 14:16:12 python 0015.py
+ 2128  12/07/22 14:16:33 python 0015.py
+ 2129  12/07/22 14:17:08 python 0015.py
+ 2130  12/07/22 14:17:21 python 0015.py
+ 2131  12/07/22 14:18:46 python 0015.py
+ 2132  12/07/22 14:19:03 python 0015.py
+ 2133  12/07/22 14:19:20 python 0015.py
+ 2134  12/07/22 14:19:39 python 0015.py
+ 2135  12/07/22 14:20:25 python 0015.py
+ 2136  12/07/22 14:21:50 python 0015.py
+ 2137  12/07/22 14:27:42 python 0015.py
+ 2138  12/07/22 14:28:05 python 0015.py
+ 2139  12/07/22 14:28:19 python 0015.py
+ 2140  12/07/22 14:28:25 python 0015.py
+ 2141  12/07/22 14:32:39 htop
+ 2142  12/07/22 00:20:44 python
+ 2143  12/07/22 14:30:57 python 0015.py
+ 2144  12/07/22 14:57:59 python 0015.py
+ 2145  12/07/22 14:58:32 python 0015.py
+ 2146  12/07/22 15:00:04 python 0015.py
+ 2147  12/07/22 15:10:26 python 0015.py
+ 2148  12/07/22 15:10:40 python 0015.py
+ 2149  12/07/22 15:11:04 python 0015.py
+ 2150  12/07/22 15:11:44 python 0015.py
+ 2151  12/07/22 15:11:56 python 0015.py
+ 2152  12/07/22 15:16:04 python 0015.py
+ 2153  12/07/22 15:18:50 python 0015.py
+ 2154  12/07/22 15:20:53 python 0015.py
+ 2155  12/07/22 15:23:06 python 0015.py
+ 2156  12/07/22 15:24:14 python 0015.py
+ 2157  12/07/22 15:26:45 python 0015.py
+ 2158  12/07/22 15:32:18 git status
+ 2159  12/07/22 15:32:35 git add .
+ 2160  12/07/22 15:32:50 git commit -m "solved two problems with python on leetcode"
+ 2161  12/07/22 15:32:51 git push origin master
+ 2162  12/07/22 15:35:40 python 0016.py
+ 2163  12/07/22 15:35:56 python 0016.py
+ 2164  12/07/22 15:36:09 python 0016.py
+ 2165  12/07/22 15:40:44 python 0016.py
+ 2166  12/07/22 15:50:32 python 0016.py
+ 2167  12/07/22 15:50:50 python 0016.py
+ 2168  12/07/22 14:56:32 htop
+ 2169  12/07/22 16:38:35 [A
+ 2170  12/07/22 16:38:37 python 0016.py
+ 2171  12/07/22 16:38:55 python 0016.py
+ 2172  12/07/22 16:39:18 python 0016.py
+ 2173  12/07/22 16:39:25 python 0016.py
+ 2174  12/07/22 16:39:32 python 0016.py
+ 2175  12/07/22 16:39:40 python 0016.py
+ 2176  12/07/22 16:39:46 python 0016.py
+ 2177  12/07/22 16:39:54 python 0016.py
+ 2178  12/07/22 16:39:57 python 0016.py
+ 2179  12/07/22 16:40:15 python 0016.py
+ 2180  12/07/22 16:40:21 python 0016.py
+ 2181  12/07/22 16:40:39 python 0016.py
+ 2182  12/07/22 16:40:48 python 0016.py
+ 2183  12/07/22 16:40:57 python 0016.py
+ 2184  12/07/22 16:43:59 python 0016.py
+ 2185  12/07/22 16:44:13 python 0016.py
+ 2186  12/07/22 16:44:27 python 0016.py
+ 2187  12/07/22 16:44:35 python 0016.py
+ 2188  12/07/22 16:45:28 python 0016.py
+ 2189  12/07/22 16:45:30 python 0016.py
+ 2190  12/07/22 16:46:13 python 0016.py
+ 2191  12/07/22 16:46:59 python 0016.py
+ 2192  12/07/22 17:01:07 python 0016.py
+ 2193  12/07/22 17:01:11 python 0016.py
+ 2194  12/07/22 17:01:38 python 0016.py
+ 2195  12/07/22 17:02:25 python 0016.py
+ 2196  12/07/22 17:03:54 python 0016.py
+ 2197  12/07/22 17:09:33 python 0016.py
+ 2198  12/07/22 17:13:45 python 0016.py
+ 2199  12/07/22 17:18:25 python 0016.py
+ 2200  12/07/22 17:18:37 python 0016.py
+ 2201  12/07/22 17:19:35 python 0016.py
+ 2202  12/07/22 17:20:30 python 0016.py
+ 2203  12/07/22 17:20:34 python 0016.py
+ 2204  12/07/22 17:21:08 python 0016.py
+ 2205  12/07/22 17:21:13 python 0016.py
+ 2206  12/07/22 17:21:21 python 0016.py
+ 2207  12/07/22 17:22:11 python 0016.py
+ 2208  12/07/22 17:26:01 python 0016.py
+ 2209  12/07/22 17:26:11 python 0016.py
+ 2210  12/07/22 17:26:26 python 0016.py
+ 2211  12/07/22 17:27:12 python 0016.py
+ 2212  12/07/22 17:27:29 python 0016.py
+ 2213  12/07/22 17:27:35 python 0016.py
+ 2214  12/07/22 17:28:17 python 0016.py
+ 2215  12/07/22 17:28:34 python 0016.py
+ 2216  12/07/22 17:29:22 python 0016.py
+ 2217  12/07/22 17:29:55 python 0016.py
+ 2218  12/07/22 17:31:53 python 0016.py
+ 2219  12/07/22 17:32:20 python 0016.py
+ 2220  12/07/22 17:34:44 python 0016.py
+ 2221  12/07/22 17:34:52 python 0016.py
+ 2222  12/07/22 17:35:28 python 0016.py
+ 2223  12/07/22 17:35:35 python 0016.py
+ 2224  12/07/22 17:35:39 python 0016.py
+ 2225  12/07/22 17:35:47 python 0016.py
+ 2226  12/07/22 23:10:53 python 0016.py
+ 2227  12/07/22 23:22:39 python 0016.py
+ 2228  12/07/22 23:22:47 python 0016.py
+ 2229  12/07/22 23:22:54 python 0016.py
+ 2230  12/07/22 23:23:22 python 0016.py
+ 2231  12/07/22 23:24:38 python 0016.py
+ 2232  12/07/22 23:49:13 python 0016.py
+ 2233  12/07/22 23:49:25 python 0016.py
+ 2234  12/07/22 23:51:04 python 0016.py
+ 2235  12/07/22 23:51:29 python 0016.py
+ 2236  12/07/22 23:51:55 python 0016.py
+ 2237  12/07/22 23:55:05 python 0016.py
+ 2238  13/07/22 01:46:03 python ~/work/test-async.py
+ 2239  13/07/22 01:46:22 python ~/work/test-async.py
+ 2240  13/07/22 01:46:39 python ~/work/test-async.py
+ 2241  13/07/22 11:07:44 python ~/work/test-async.py
+ 2242  13/07/22 11:08:06 python ~/work/test-async.py
+ 2243  13/07/22 11:08:41 python ~/work/test-async.py
+ 2244  13/07/22 11:09:10 python ~/work/test-async.py
+ 2245  13/07/22 11:09:34 python ~/work/test-async.py
+ 2246  13/07/22 11:09:46 python ~/work/test-async.py
+ 2247  13/07/22 11:11:40 python ~/work/chaining_coroutines.py
+ 2248  13/07/22 11:13:50 python ~/work/chaining_coroutines.py
+ 2249  13/07/22 11:13:52 python ~/work/chaining_coroutines.py
+ 2250  13/07/22 11:13:53 python ~/work/chaining_coroutines.py
+ 2251  13/07/22 11:13:55 python ~/work/chaining_coroutines.py
+ 2252  13/07/22 11:14:04 python ~/work/chaining_coroutines.py
+ 2253  13/07/22 11:14:08 python ~/work/chaining_coroutines.py
+ 2254  13/07/22 11:14:13 python ~/work/chaining_coroutines.py
+ 2255  13/07/22 11:14:14 python ~/work/chaining_coroutines.py
+ 2256  13/07/22 11:14:18 python ~/work/chaining_coroutines.py
+ 2257  13/07/22 11:14:20 python ~/work/chaining_coroutines.py
+ 2258  13/07/22 11:15:27 python ~/work/chaining_coroutines.py
+ 2259  13/07/22 11:16:15 python ~/work/chaining_coroutines.py 9 6 3
+ 2260  13/07/22 11:21:01 python ~/work/chaining_coroutines.py 9 6 3
+ 2261  13/07/22 11:21:17 python ~/work/chaining_coroutines.py 9 6 3
+ 2262  13/07/22 11:22:07 python ~/work/chaining_coroutines.py 9 6 3
+ 2263  13/07/22 11:22:27 python ~/work/chaining_coroutines.py 9 6 3
+ 2264  13/07/22 11:24:04 python ~/work/chaining_coroutines.py 9 6 3
+ 2265  13/07/22 11:24:07 python ~/work/chaining_coroutines.py 9 6 3
+ 2266  13/07/22 11:25:07 python ~/work/chaining_coroutines.py 9 6 3
+ 2267  13/07/22 11:26:23 python ~/work/chaining_coroutines.py 9 6 3
+ 2268  13/07/22 11:34:02 cd ~/work/
+ 2269  13/07/22 11:34:06 mv queue-async-test.py asyncq.py
+ 2270  13/07/22 11:34:11 python3 asyncq.py -p 2 -c 5
+ 2271  13/07/22 11:34:49 python3 asyncq.py -p 2 -c 100
+ 2272  13/07/22 11:44:49 python3 asyncq.py -p 2 -c 5
+ 2273  13/07/22 11:45:17 python3 asyncq.py -p 2 -c 5
+ 2274  13/07/22 11:45:25 python3 asyncq.py -p 2 -c 5
+ 2275  13/07/22 11:45:53 python3 asyncq.py -p 2 -c 5
+ 2276  13/07/22 11:46:00 python3 asyncq.py -p 2 -c 5
+ 2277  13/07/22 11:46:34 python3 asyncq.py -p 2 -c 5
+ 2278  13/07/22 11:56:22 python3 asyncq.py -p 2 -c 5
+ 2279  13/07/22 11:56:45 python3 asyncq.py -p 2 -c 5
+ 2280  13/07/22 11:57:06 python3 asyncq.py -p 2 -c 5
+ 2281  13/07/22 11:57:51 python3 asyncq.py -p 2 -c 5
+ 2282  13/07/22 11:59:50 python3 asyncq.py -p 2 -c 5
+ 2283  13/07/22 12:00:23 python3 asyncq.py -p 2 -c 5
+ 2284  13/07/22 12:04:17 python3 asyncq.py -p 2 -c 5
+ 2285  13/07/22 12:12:56 python3 asyncq.py -p 2 -c 5
+ 2286  13/07/22 12:13:15 python3 asyncq.py -p 3 -c 5
+ 2287  13/07/22 12:13:29 python3 asyncq.py -p 2 -c 5
+ 2288  13/07/22 12:14:16 python3 asyncq.py -p 2 -c 5
+ 2289  13/07/22 12:15:03 python3 asyncq.py -p 3 -c 5
+ 2290  13/07/22 12:15:31 python3 asyncq.py -p 3 -c 5
+ 2291  13/07/22 12:16:32 python3 asyncq.py -p 3 -c 5
+ 2292  13/07/22 12:16:53 python3 asyncq.py -p 3 -c 5
+ 2293  13/07/22 12:17:35 python3 asyncq.py -p 3 -c 5
+ 2294  13/07/22 12:17:48 python3 asyncq.py -p 3 -c 5
+ 2295  13/07/22 12:18:02 python3 asyncq.py -p 3 -c 5
+ 2296  13/07/22 12:18:41 python3 asyncq.py -p 3 -c 5
+ 2297  13/07/22 12:18:52 python3 asyncq.py -p 3 -c 5
+ 2298  13/07/22 12:19:55 python3 asyncq.py -p 3 -c 5
+ 2299  13/07/22 12:20:37 python3 asyncq.py -p 3 -c 100
+ 2300  13/07/22 12:21:14 python3 asyncq.py -p 5 -c 100
+ 2301  13/07/22 12:40:00 subl async_python_requests/
+ 2302  13/07/22 12:47:40 cd REDACTED
+ 2303  13/07/22 12:47:41 ls -lrt
+ 2304  13/07/22 12:48:23 open .
+ 2305  13/07/22 12:52:40 htop
+ 2306  13/07/22 12:53:29 cd
+ 2307  13/07/22 12:54:05 htop
+ 2308  13/07/22 12:54:06 htop
+ 2309  13/07/22 13:07:33 cd ~/work/
+ 2310  13/07/22 13:07:34 ls -lrt
+ 2311  13/07/22 13:08:00 mkdir article-async-practice
+ 2312  13/07/22 13:08:13 mv asyncq.py article-async-practice/asyncq.py
+ 2313  13/07/22 13:08:30 mv chaining_coroutines.py article-async-practice/chaining_coroutines.py
+ 2314  13/07/22 13:08:44 mv test-async.py article-async-practice/test-async.py
+ 2315  13/07/22 13:08:49 cd article-async-practice/
+ 2316  13/07/22 13:08:50 ls
+ 2317  13/07/22 13:09:03 make turn_laptop_into_spaceship.py
+ 2318  13/07/22 13:09:10 subl turn_laptop_into_spaceship.py
+ 2319  13/07/22 13:09:31 subl turn_laptop_into_spaceship.py
+ 2320  13/07/22 13:11:44 htop
+ 2321  13/07/22 13:13:56 python
+ 2322  13/07/22 13:13:53 python
+ 2323  13/07/22 13:13:50 python
+ 2324  13/07/22 13:13:46 python
+ 2325  13/07/22 13:12:38 python
+ 2326  13/07/22 13:12:34 python
+ 2327  13/07/22 13:12:27 python
+ 2328  13/07/22 13:12:20 htop
+ 2329  13/07/22 13:18:56 mkdir python_rocket_ship
+ 2330  13/07/22 13:18:58 cd python_
+ 2331  13/07/22 13:19:00 cd python_rocket_ship/
+ 2332  13/07/22 13:19:05 vim README.md
+ 2333  13/07/22 13:51:25 ls
+ 2334  13/07/22 13:51:38 vim python_rocket_ship.py
+ 2335  13/07/22 13:51:43 subl .
+ 2336  13/07/22 13:53:44 python python_rocket_ship.py htop
+ 2337  13/07/22 13:53:47 htop
+ 2338  13/07/22 13:54:29 python python_rocket_ship.py
+ 2339  13/07/22 13:54:35 htop
+ 2340  13/07/22 13:54:50 htop
+ 2341  13/07/22 13:56:15 python python_rocket_ship.py
+ 2342  13/07/22 13:57:12 python python_rocket_ship.py
+ 2343  13/07/22 14:01:51 python python_rocket_ship.py
+ 2344  13/07/22 14:02:28 python python_rocket_ship.py
+ 2345  13/07/22 14:02:39 python python_rocket_ship.py
+ 2346  13/07/22 14:02:40 python python_rocket_ship.py
+ 2347  13/07/22 14:02:49 python python_rocket_ship.py
+ 2348  13/07/22 14:04:55 htop
+ 2349  13/07/22 14:04:45 python python_rocket_ship.py
+ 2350  13/07/22 14:07:13 python python_rocket_ship.py
+ 2351  13/07/22 14:08:21 python python_rocket_ship.py
+ 2352  13/07/22 14:08:38 python python_rocket_ship.py
+ 2353  13/07/22 14:09:14 python python_rocket_ship.py
+ 2354  13/07/22 14:11:03 python python_rocket_ship.py
+ 2355  13/07/22 14:11:32 python python_rocket_ship.py
+ 2356  13/07/22 14:11:59 htop
+ 2357  13/07/22 14:11:52 python python_rocket_ship.py
+ 2358  13/07/22 14:13:38 python python_rocket_ship.py
+ 2359  13/07/22 14:14:12 python python_rocket_ship.py
+ 2360  13/07/22 14:15:13 for i in range(16)
+ 2361  13/07/22 14:46:25 python python_rocket_ship.py 2
+ 2362  13/07/22 14:48:29 python python_rocket_ship.py 2
+ 2363  13/07/22 14:48:47 python python_rocket_ship.py 2
+ 2364  13/07/22 14:50:15 python python_rocket_ship.py 2
+ 2365  13/07/22 14:53:42 python python_rocket_ship.py 2
+ 2366  13/07/22 14:55:28 python python_rocket_ship.py 2
+ 2367  13/07/22 14:55:31 python python_rocket_ship.py 2
+ 2368  13/07/22 14:56:18 python python_rocket_ship.py 2
+ 2369  13/07/22 14:56:42 python python_rocket_ship.py 16
+ 2370  13/07/22 14:59:12 python python_rocket_ship.py 16
+ 2371  13/07/22 15:01:51 python python_rocket_ship.py 16
+ 2372  13/07/22 15:02:12 python python_rocket_ship.py 16
+ 2373  13/07/22 15:03:23 open .
+ 2374  13/07/22 15:04:27 rm -f after_launch.png
+ 2375  13/07/22 15:04:36 mv cpu_melting_maybe.png after_launch.png
+ 2376  13/07/22 15:06:04 python python_rocket_ship.py 16
+ 2377  13/07/22 14:13:33 htop
+ 2378  13/07/22 15:06:26 htop
+ 2379  13/07/22 15:07:16 cd ~/work/python_rocket_ship/
+ 2380  13/07/22 15:08:51 python python_rocket_ship.py 16
+ 2381  13/07/22 15:11:14 python python_rocket_ship.py 16
+ 2382  13/07/22 15:33:42 python python_rocket_ship.py 16
+ 2383  13/07/22 15:33:57 python python_rocket_ship.py 16
+ 2384  13/07/22 15:34:03 python python_rocket_ship.py 16
+ 2385  13/07/22 15:34:08 python python_rocket_ship.py 16
+ 2386  13/07/22 15:34:29 python python_rocket_ship.py 16
+ 2387  13/07/22 15:34:39 python python_rocket_ship.py 16
+ 2388  13/07/22 15:36:47 python python_rocket_ship.py 16
+ 2389  13/07/22 15:44:33 python python_rocket_ship.py 16
+ 2390  13/07/22 15:44:43 python python_rocket_ship.py 16
+ 2391  13/07/22 15:45:27 python python_rocket_ship.py 16
+ 2392  13/07/22 15:45:40 python python_rocket_ship.py 16
+ 2393  13/07/22 15:49:38 python python_rocket_ship.py 16
+ 2394  13/07/22 15:49:44 python python_rocket_ship.py 16
+ 2395  13/07/22 15:49:55 python python_rocket_ship.py 16
+ 2396  13/07/22 15:50:04 python python_rocket_ship.py 16
+ 2397  13/07/22 15:50:40 python python_rocket_ship.py 16
+ 2398  13/07/22 15:50:46 python python_rocket_ship.py 16
+ 2399  13/07/22 15:51:26 python python_rocket_ship.py 16
+ 2400  13/07/22 15:07:36 htop
+ 2401  13/07/22 16:03:51 git diff
+ 2402  13/07/22 16:05:07 python python_rocket_ship.py 16
+ 2403  13/07/22 16:09:20 python python_rocket_ship.py 16
+ 2404  13/07/22 16:12:16 git status
+ 2405  13/07/22 16:12:22 git init
+ 2406  13/07/22 16:12:28 git status
+ 2407  13/07/22 16:13:56 git add .
+ 2408  13/07/22 16:04:58 htop
+ 2409  13/07/22 16:14:15 git commit -m "some CPU melting code right here..."
+ 2410  13/07/22 16:14:39 git remote add origin git@github.com:sergeimellow/python_rocket_ship.git
+ 2411  13/07/22 16:14:44 git push origin master
+ 2412  13/07/22 16:19:07 git diff
+ 2413  13/07/22 16:19:24 git commit -am "update the README.md with some screencaps"
+ 2414  13/07/22 16:19:27 git push origin master
+ 2415  13/07/22 16:20:43 git diff
+ 2416  13/07/22 16:21:14 git diff
+ 2417  13/07/22 16:21:21 git commit -am "little comment updates"
+ 2418  13/07/22 16:21:23 git push origin master
+ 2419  13/07/22 16:25:41 git diff
+ 2420  13/07/22 16:25:52 git commit -am "add links to code comments"
+ 2421  13/07/22 16:25:53 git push origin master
+ 2422  13/07/22 16:52:27 cd ..
+ 2423  13/07/22 16:52:29 cd article-async-practice/
+ 2424  13/07/22 16:52:30 subl
+ 2425  13/07/22 16:52:35 subl .
+ 2426  13/07/22 16:57:50 vim urls.txt
+ 2427  13/07/22 16:58:12 vim urls.txt
+ 2428  13/07/22 16:58:27 ls
+ 2429  13/07/22 16:58:52 python python_scrape.py
+ 2430  13/07/22 16:58:59 which python
+ 2431  13/07/22 16:59:02 python --version
+ 2432  13/07/22 16:59:08 pyenv versions
+ 2433  13/07/22 17:00:29 pyenv versions
+ 2434  13/07/22 17:00:41 python --version
+ 2435  12/07/22 15:52:57 python
+ 2436  13/07/22 17:01:17 python --version
+ 2437  13/07/22 17:01:23 python3 --version
+ 2438  13/07/22 17:01:26 pyenv versions
+ 2439  13/07/22 17:01:41 cd ~/work/async_python_requests/
+ 2440  13/07/22 17:01:44 pyenv versions
+ 2441  13/07/22 17:01:51 python --version
+ 2442  13/07/22 17:01:56 which python
+ 2443  13/07/22 17:01:56 which python3
+ 2444  13/07/22 17:02:11 vim ~/.bashrc
+ 2445  13/07/22 17:02:20 vim ~/bash_profile_not_fixed
+ 2446  13/07/22 17:02:49 vim ~/.bash_profile
+ 2447  13/07/22 17:03:03 source ~/.bash_profile
+ 2448  13/07/22 17:03:06 which python3
+ 2449  13/07/22 17:03:12 python3 --version
+ 2450  13/07/22 17:03:18 source ~/.bashrc
+ 2451  13/07/22 17:03:22 which python
+ 2452  13/07/22 17:03:42 python --version
+ 2453  13/07/22 17:03:45 python3 --version
+ 2454  13/07/22 17:03:48 which python
+ 2455  13/07/22 17:03:50 which python3
+ 2456  13/07/22 17:03:55 source ~/.bashrc
+ 2457  13/07/22 17:03:57 which python3
+ 2458  13/07/22 17:04:05 vim ~/.bashrc
+ 2459  13/07/22 17:04:18 vim ~/.bashrc
+ 2460  13/07/22 17:05:44 which python
+ 2461  13/07/22 17:06:03 python --version
+ 2462  13/07/22 17:06:10 cd ~/work/article-async-practice/
+ 2463  13/07/22 17:06:11 ls
+ 2464  13/07/22 17:06:13 which python
+ 2465  13/07/22 17:06:23 python python_scrape.py
+ 2466  13/07/22 17:13:42 cd ..
+ 2467  13/07/22 17:13:44 git clone git@github.com:realpython/python-guide.git
+ 2468  13/07/22 17:13:54 git clone git@github.com:realpython/materials.git
+ 2469  13/07/22 17:14:46 mkdir realpython_materials_areq
+ 2470  13/07/22 17:14:54 rm -rf realpython_materials_areq/
+ 2471  13/07/22 17:15:13 mkdir python_url_scraper
+ 2472  13/07/22 17:15:20 subl python_url_scraper/
+ 2473  13/07/22 17:16:33 cd python_url_scraper/
+ 2474  13/07/22 17:16:49 ls
+ 2475  13/07/22 17:17:24 python scraper.py
+ 2476  13/07/22 17:17:29 which python
+ 2477  13/07/22 17:17:45 pyenv local 3.9.13
+ 2478  13/07/22 17:17:48 git status
+ 2479  13/07/22 17:17:50 ls
+ 2480  13/07/22 17:17:55 vim .python-version
+ 2481  13/07/22 17:18:08 which python
+ 2482  13/07/22 17:18:11 python --version
+ 2483  13/07/22 17:18:14 pipreqs .
+ 2484  13/07/22 17:18:50 pyenv local 3.10.5
+ 2485  13/07/22 17:18:55 pipreqs .
+ 2486  13/07/22 17:18:58 vim requirements.txt
+ 2487  13/07/22 17:19:07 vim requirements.txt
+ 2488  13/07/22 17:19:54 python --version
+ 2489  13/07/22 17:19:55 pip install -r requirements.txt
+ 2490  13/07/22 17:20:14 python scraper.py
+ 2491  14/07/22 00:15:02 cd REDACTED
+ 2492  14/07/22 00:15:03 ls
+ 2493  14/07/22 00:15:05 cd REDACTED
+ 2494  14/07/22 00:15:32 cd REDACTED
+ 2495  13/07/22 17:04:33 vim ~/.bash_profile
+ 2496  14/07/22 00:16:10 git log
+ 2497  14/07/22 00:16:56 git diff REDACTED
+ 2498  14/07/22 00:17:23 cd REDACTED
+ 2499  14/07/22 00:17:29 subl .
+ 2500  14/07/22 00:17:45 cd ..
+ 2501  14/07/22 00:17:51 subl .
+ 2502  14/07/22 00:21:28 cd
+ 2503  14/07/22 08:25:11 cd
+ 2504  14/07/22 08:25:45 which python
+ 2505  14/07/22 08:36:01 pwd
+ 2506  14/07/22 08:36:11 cd ~/work/python_url_scraper/
+ 2507  14/07/22 08:37:05 cd ~/work/python_url_scraper/
+ 2508  14/07/22 08:37:12 python scraper.py
+ 2509  14/07/22 08:37:25 source ~/.bash_profile
+ 2510  14/07/22 08:37:27 python scraper.py
+ 2511  14/07/22 08:37:46 python scraper.py
+ 2512  14/07/22 08:38:22 python scraper.py
+ 2513  14/07/22 08:38:50 cat foundurls.txt
+ 2514  14/07/22 08:39:37 python scraper.py
+ 2515  14/07/22 08:39:39 cat foundurls.txt
+ 2516  14/07/22 08:39:51 ls
+ 2517  14/07/22 08:39:53 vim foundurls.txt
+ 2518  14/07/22 08:40:40 subl ~/work/async_python_requests/
+ 2519  14/07/22 08:41:39 python
+ 2520  14/07/22 08:43:09 python scraper.py
+ 2521  14/07/22 08:43:27 python scraper.py
+ 2522  14/07/22 08:43:32 cat foundurls.txt
+ 2523  14/07/22 09:30:32 cd ~/work/dot_files/
+ 2524  14/07/22 09:30:42 ls
+ 2525  14/07/22 09:31:04 git status
+ 2526  14/07/22 09:31:09 rm .bashrc_mac
+ 2527  14/07/22 09:31:27 cp ~/.bashrc .bashrc_mac
+ 2528  14/07/22 09:31:34 vim .bashrc_mac
+ 2529  14/07/22 09:31:50 vim ~/.bash_profile
+ 2530  14/07/22 09:32:15 rm .bash_profile_mac
+ 2531  14/07/22 09:32:30 cp ~/.bash_profile ~/.bash_profile_mac
+ 2532  14/07/22 09:32:31 git diff
+ 2533  14/07/22 09:32:46 git status
+ 2534  14/07/22 09:32:51 git status
+ 2535  14/07/22 09:32:58 git status
+ 2536  14/07/22 09:33:10 cp ~/.bash_profile .bash_profile_mac
+ 2537  14/07/22 09:33:19 rm ~/.bash_profile_mac
+ 2538  14/07/22 09:33:24 git status
+ 2539  14/07/22 09:33:25 git diff
+ 2540  14/07/22 09:35:57 history
